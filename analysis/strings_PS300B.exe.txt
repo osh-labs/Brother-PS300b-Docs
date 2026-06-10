@@ -1,0 +1,6962 @@
+    
+    dmCollate:       
+    dmColor:         
+    dmCopies:        
+    dmDefaultSource: 
+    dmDeviceName:    
+    dmDriverExtra:   
+    dmDriverVersion: 
+    dmDuplex:        
+    dmFields:        
+    dmFormName:      
+    dmOrientation:   
+    dmPaperLength:   
+    dmPaperSize:     
+    dmPaperWidth:    
+    dmPrintQuality:  
+    dmScale:         
+    dmSize:          
+    dmSpecVersion:   
+    dmTTOption:      
+    dmYResolution:   
+  %d  
+  %d  :
+  Attributes:        
+  AveragePPM:        
+  cJobs:             
+  cVersion
+  DefaultPriority:   
+  pComment:          
+  pConfigFile
+  pDataFile
+  pDatatype:         
+  pDescription:      
+  pDevMode           
+  pDriverName:       
+  pDriverPath
+  pEnvironment
+  pLocation:         
+  pName
+  pName:             
+  pParameters:       
+  pPortName:         
+  pPrinterName:      
+  pPrintProcessor:   
+  Priority:          
+  pSepFile:          
+  pServerName:       
+  pShareName:        
+  StartTime:         
+  Status:            
+  UntilTime:         
+ < u#
+ < u%h
+ < uU
+ ]]PFF]jjw.6
+ Display full pages
+ f9X
+ jPFCCjss
+ No.%d 
+ SUV
+ SUVW
+ SVW
+ toh
+ u%h+
+ uGj
+ uoh
+ uoh 
+ w`tT
+ You can also re-generate stitch again, do you want to generate stitch?yIf you clear the outline,the property will be removed by leaving the sewing data.Do you really want to clear the outline? The regular polyline is ignored.
+!!!!!!!!!!$$$$$$$&&&&&&''[
+!!!!!!!!!$$$$$$$$$&&&&&&~
+!!!!!!!$$$$$$$$&&&&&''''(
+!!!!!!!>>>>>>>>>
+!!!!!!$$$$$$$$&&&&&&''''(
+!!!!$$$$$$$$&&&&&'''''(((O
+!>!!!!!!!!!$$$$$$$$&&&&&O
+!>>!!!!!!!!!$$$$$$$$&&&&'
+!>>>!!!!!!!!!$$$$$$$$&&&'
+!>>>!!!!!!!!!$$$$$$$$&&&(
+!>>>>>>>>
+!Restore the window to normal size
+!This program cannot be run in DOS mode.
+""""
+"""""
+""""""
+"""""""""
+"""""""""""""""
+""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""""""""""""""
+"""""""""""""""""""""MMMBBB"""
+""""""""""""MMMBBB"""
+""""""'''
+""""""MMM
+""""""UUU
+"""'''
+"""999999
+"""MMMBBB"""
+"""UUU
+"'-DA'"
+"@|0N
+"Show/Hide object setting
+$!!!!!!!!>>>>>>>>>>
+$!!!!$$$$$$$$&&&&&''''''O
+$!$$$$$$$$&&&&&''''(((((
+$$$$$$!!!!!!!!!!>>>>>>>>>
+$$$$$$$$$$&&&&&''''(((((
+$$$$$$$$$&&&&&''''(((((
+$$$$$$$$&&&&&'''''((((
+$9|$8u
+$>>>>>>>
+$DIMSCALE
+$EXTMAX
+$EXTMIN
+$LIMMAX
+$LIMMIN
+$PhD
+$PQR
+$PQS
+$PUVR
+$QSVR
+$RPSQ
+$RPWQ
+$SSSSSS
+$SUV
+$SUVW
+$SUVWj
+$SV3
+$SVW
+$SVWQ
+$UPQR
+$VWRS
+$VWSP
+$WSPQ
+$WSQR
+$WSRP
+$WVUSR
+% BO
+% CO
+% DO
+% EO
+% FO
+% GO
+% HO
+% IO
+% JO
+% LO
+%$BO
+%$CO
+%$DO
+%$EO
+%$FO
+%$GO
+%$HO
+%$IO
+%$JO
+%%==========N=NNNNNNNNNNNNN%@@@@@@@@@@@@@@@@@@@@@@@@\
+%(AO
+%(BO
+%(CO
+%(DO
+%(EO
+%(FO
+%(GO
+%(HO
+%(IO
+%(JO
+%(LO
+%+.2f
+%,AO
+%,BO
+%,CO
+%,DO
+%,EO
+%,FO
+%,GO
+%,HO
+%,IO
+%,JO
+%,KO
+%,LO
+%.1f
+%.1f X %.1f
+%.1f x %.1f
+%.2f
+%.2f mm
+%.3f
+%.6f
+%02d/%02d/%04d  %02d:%02d:%02d
+%04d-%02d-%02d  %02d:%02d:%02d
+%04d/%02d/%02d  %02d:%02d:%02d
+%08d
+%0AO
+%0BO
+%0CO
+%0DO
+%0EO
+%0FO
+%0GO
+%0HO
+%0hO
+%0IO
+%0JO
+%0LO
+%0nO
+%3.1f - %3.1f mm
+%3.2f - %3.2f mm
+%3.3f - %3.3f
+%4.1f
+%4.2fmm (X = 
+%4.2fmm)
+%4.2fmm, Y = 
+%4AO
+%4BO
+%4CO
+%4DO
+%4EO
+%4FO
+%4GO
+%4HO
+%4IO
+%4JO
+%4LO
+%8AO
+%8BO
+%8CO
+%8DO
+%8EO
+%8FO
+%8GO
+%8HO
+%8IO
+%8JO
+%<AO
+%<BO
+%<CO
+%<DO
+%<EO
+%<FO
+%<GO
+%<HO
+%<IO
+%<JO
+%<KO
+%<LO
+%@AO
+%@BO
+%@CO
+%@DO
+%@EO
+%@GO
+%@HO
+%@JO
+%@LO
+%\AO
+%\BO
+%\CO
+%\DO
+%\EO
+%\FO
+%\GO
+%\HO
+%\IO
+%\JO
+%\LO
+%`AO
+%`BO
+%`CO
+%`DO
+%`EO
+%`FO
+%`GO
+%`HO
+%`IO
+%`JO
+%d - %d
+%d data
+%d/%d
+%dAO
+%DBO
+%dBO
+%dCO
+%DCO
+%DDO
+%dDO
+%dEO
+%DEO
+%DFO
+%dFO
+%dGO
+%DGO
+%dHO
+%DHO
+%dIO
+%DIO
+%DJO
+%dJO
+%DKO
+%DLO
+%H:%M:%S, %B %d, %YA%s
+%hAO
+%hBO
+%HBO
+%HCO
+%hCO
+%hDO
+%HDO
+%HEO
+%hEO
+%hFO
+%HFO
+%HGO
+%hGO
+%hHO
+%HHO
+%HIO
+%hIO
+%hJO
+%HKO
+%HLO
+%HnO
+%lAO
+%LAO
+%lBO
+%LBO
+%lCO
+%LCO
+%LDO
+%lDO
+%lEO
+%LEO
+%lFO
+%LFO
+%LGO
+%lGO
+%lHO
+%LHO
+%lIO
+%LIO
+%lJO
+%LJO
+%LKO
+%PAO
+%pAO
+%pBO
+%PBO
+%PCO
+%pCO
+%PDO
+%pDO
+%pEO
+%PEO
+%pFO
+%PFO
+%PGO
+%pGO
+%PHO
+%pHO
+%pIO
+%PIO
+%PJO
+%pJO
+%PLO
+%pnO
+%PnO
+%s%s
+%s:%04d/%02d/%02d %02d:%02d:%02d
+%s:%5.1fmm X %5.1fmm
+%s:%d
+%TAO
+%tAO
+%TBO
+%tBO
+%TCO
+%tCO
+%TDO
+%tDO
+%tEO
+%TEO
+%TFO
+%TGO
+%tGO
+%THO
+%tHO
+%TJO
+%tJO
+%TKO
+%TLO
+%U"/
+%X[O
+%xAO
+%XAO
+%XBO
+%xBO
+%XCO
+%xCO
+%xDO
+%XDO
+%XEO
+%xEO
+%XFO
+%xFO
+%XGO
+%xGO
+%XHO
+%xHO
+%XIO
+%xIO
+%xJO
+%XJO
+%XLO
+%|AO
+%|BO
+%|CO
+%|DO
+%|EO
+%|FO
+%|GO
+%|HO
+%|IO
+%|JO
+&$$$$$$$&&&&&'''''((((
+&About PS-300B...
+&About PS300B...
+&Apply
+&Cascade
+&Clockwise
+&Close
+&Connections
+&Copy
+&Edit
+&Feeds
+&File
+&Gridline
+&Height:
+&Help
+&Image
+&Machine Model Setting...
+&Maintain Aspect Ratio
+&Modify
+&New
+&New Window
+&Open...
+&Outline
+&Outlines
+&Paste
+&Percentage
+&Point
+&Print...
+&Redo
+&Reset
+&Save
+&Shape
+&Size
+&Tile
+&Tools
+&Undo
+&View
+&Width:
+&Window
+'!!!!!!>>>>>>>>>
+'!$$!!!!!!!!!>>>>>>>>>>
+'$$$$$$$$!!!!!!!!!!>>>>>>
+'$$$$$$$$!!!!!!!!!>>>>>>>;:::
+'$&&&&&&''''((((
+'$&&&&&'''''(((((
+'&&&&&&$$$$$$$$!!!!!!!!!!:688888
+'''"""
+'''""""""
+'''''&&&&&$$$$$$$$$!!!!$
+''((((
+'((((
+'5RLLMLMMMM555556666668886T
+'<4^5)
+'AA-
+'Close print preview mode
+'Display data by actual size
+'f=2
+'rww
+'Show or hide the toolbar
+(%.1f - %.1f)mm
+(%.2f mm, %.2f mm)
+(%3.1f - %3.1f)mm
+(%d - %d)
+(%d - %d)deg.
+(&&&&$$$$$$$$$!!!!!!!!!!!;8888
+(&&&&&$$$$$$$$$!!!!!!!!!>
+(&''''(((((
+((''''&&&&&&$$$$$$$!!!!!:88
+((''''&&&&&&&$$$$$$$<888888
+((("""
+((('''''&&&&&&$$$$$>868888888
+((('''''&&&&'>65666688888888
+(((''''''&&&&&$$$$
+((((
+(((('
+((((''
+(((('''''&&&&&$$$$$$$$$$
+(((('''''&&&&&&$$$$$$$:M55666668888888
+(((('''''&&&&&&'
+(((('''''&'$9M56666688888888
+(((('''''&(<LLLMLMMMM5555666668888888;<
+(((('OwuRLRLLLLMMMMMM5555666668
+(((((''
+((((('''
+((((('''&
+(((((''''&&&&&&$$$$&
+(((((''''&&&&&&$8LMMM55555666688888888
+(((((''''&&&&&&'
+(((((''''&6RLLLLMMMMM5M555666668888
+((((('''''&&&&&&$$&9LMMM5555666668888888
+((((('''''&&&&&&$&
+((((('''''&&&(
+(((((''''(;M55566666688888888
+(((((($6LMM5M5556666688888888
+((((((''''&&&8RLLLMMMMM555556666888888:
+(((((('''''&&&&&$$$$&>6M5555566668888888
+(((((('''''&&&(>MLLMMMMM55556666688888888
+(0.5-50mm)
+([kMRRRRLRLLLLLMLMMM5555659
+(f=(
+(f=*
+(f=3
+(mm)
+(SUV
+(SUV3
+(SUVW
+)}"Q
+****************AAAAAAA
+****************}}}}}XXXX_
+**************AAAAAA
+**************}}}}}XXXXXX1
+************}}}}}XXXXXXX
+************}}}}}XXXXXXX1
+***********AAAAAA
+***********AAAAAAA
+***********}}}}}XXXXXXXX
+***********}}}}}XXXXXXXXX_
+**********AAAAAA
+*********AAAAAA
+*********AAAAAAA
+*********}}}}}XXXXXXXXXXX
+********AAAAA
+********}}}}}}XXXXXXXXX1
+*******AAAAAAA
+******AAAAAA
+******}}}}}XXXXXXXXXXX1
+******}}}}}}XXXXXXXXXXXXX
+*****AAAAAA
+*****AAAAAAA
+*****}}}}}XXXXXXXXXXXX1
+*****}}}}}XXXXXXXXXXXXXXX
+***AAAAAA
+***AAAAAAA
+***E
+***}}}}}XXXXXXXXXXXXX
+***}}}}}XXXXXXXXXXXXXXXXX_
+**08880
+**AAAAAA
+*00C<80
+*AA***************}}}}}XX_
+*AAAAAA
+*Change sharp line(s) to smooth ones
+*t -
+*t*W
+*ttQ
+*}}}}}XXXXXXXXXXXXXX1
+*}}}}}XXXXXXXXXXXXXXXXXXX
++%.2f
++%.3f
++180
++180&Rotate by specifying any degrees
++30(Rotate 60 degrees by right direction
++45'Rotate 30 degrees by left direction
++60(Rotate 90 degrees by right direction
++90*Rotate 180 degrees by right direction
++D$0
++FHP
++L$(
++L$,
++T$(t
++|$,
+,f=>
+,SUVW
+,SVW
+,SVW3
+,wwww
+-0nO
+-180
+-180\Align the selected objects to coordinate's original point
+-30'Rotate 45 degrees by left direction
+-45'Rotate 60 degrees by left direction
+-60'Rotate 90 degrees by left direction
+-8[O
+-90)Rotate 180 degrees by left direction
+-\MO
+-_NA_
+-AND 
+-DTj
+-DTSW
+-DTVQ
+-Fit the selected data to window
+-HnO
+-j2R
+-l@O
+-lKO
+-p@O
+-P[O
+-PnO
+-t@O
+-XKO
+-XMO
+-XnO
+-|KO
+...$$$
+.......................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+.....................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+....................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+..................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+...............................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+..............................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+............................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+..........................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+.........................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+......................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn.
+....................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn.
+...................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+.........................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+........................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+.......................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+......................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+....................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+...................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+..................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+......nn..........................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+.....nnnn..........................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn.
+....nnnnnnn.........................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn.
+...nnnnnnnn.........................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+...nnnnnnnnnnn........................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn.
+..nnnnnnnnnnnnn........................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn.
+./.UUU
+.?AVtype_info@@
+.A~-
+.dsb
+.DSB
+.dst
+.DST
+.DSZ
+.dsz
+.dxf
+.DXF
+.ema
+.EMB
+.emb
+.ER2
+.IF2
+.if2
+.nnnnnnnnnnnnnnnnn........................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn.
+.nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+.PAVCException@@
+.PAVCFileException@@
+.PAVCMemoryException@@
+.rsrc
+.SUVW
+.text
+.txt
+/////
+//////
+////////
+/////////
+//////////
+///////////
+/////////////
+//////////////////////////////////////
+///////////////////////////////////////
+////////////////////////////////////////
+/////////////////////////////////////////
+//////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+///////////////////////////////////////////////////////////////////////////////////////r/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////////////////////////////////////////rrrrrrr/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+///////////////////////////////////////////////////////////////////////////////rrrrrrrrr/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+//////////////////////////////////////////////////////////////////////////////rrrrrrrrrrr
+////////////////////////////////////////////////////////////////////////////rrrrrrrrrrrr/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+/////////////////////////////////////////////////////////////////////////rrrrrrrrrrrrrrr/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+////////////////////////////////////////////////////////////////////////rrrrrrrrrrrrrrrrr
+//////////////////////////////////////////////////////////////////////rrrrrrrrrrrrrrrrrrrXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+////////////////////////////////////////////XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+////rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+//r/
+//rr
+//rrr
+//rrrr
+//rrrrr
+/rrrrrr
+/rrrrrrr
+/rrrrrrrr
+/rrrrrrrrr
+/rrrrrrrrrr
+/rrrrrrrrrrr
+/rrrrrrrrrrrrrr
+/rrrrrrrrrrrrrrr
+/rrrrrrrrrrrrrrrrr
+/rrrrrrrrrrrrrrrrrr
+/rrrrrrrrrrrrrrrrrrr/////////////////////////////////////////////////////////////////////
+/rrrrrrrrrrrrrrrrrrrrr
+/rrrrrrrrrrrrrrrrrrrrr////////////////////////////////////////////////////////////////////
+/rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr/////////////////////////////////////////////////////
+/rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+/rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+0               
+0 - 30
+0$88".
+0.1 - 5.0mm
+00000000
+008<F80*
+040904b0
+0f9x\
+0f;t$
+0PFQ
+0SUV
+0SUVW
+0SUVW3
+0SUVWh
+0SVW
+0t$-
+0You are able to use this software for %d day(s).IAdded codes will be deleted when this function is used.
+1, 0, 0, 1
+10.0
+115200
+12345678
+19200
+1;yH
+2RhB
+2t)-
+3.5 2DD
+3.5 2HD
+3033
+3333
+33333
+333f3
+33999
+33C30
+38400
+3999
+3f999999999999
+3fUUU
+3fUUU999
+3t<1
+3www
+444'''"""
+444...
+4f=(
+4f=F
+4SUV
+4SUVW
+4SUVW3
+4SVW
+4SVWh
+566668888888
+566688888888
+568888888
+57600
+5l@O
+5M5MMMLLLLLLLRRRRRRRuux
+5pKO
+5t)-&
+66668888888
+666eee666666   
+6688888888
+688888
+68888888
+6Flip the selected object(s) vertically
+6Open another window for the active document
+7N_@Xt||Y
+7r(<
+8/Mi
+8666655555MMMMMLMLLLLRRR5&''''((((
+8666655555MMMMMMLLLLLLRR6(
+8888
+88886666655555MMMMMLLLLR8&&&&'''''((((
+8888666665555MMMMMMLLLLR
+88888
+8888886
+888888666665555MMMMMLLLM>'&&&&'''''((((
+888888866
+88888886666655555
+88888886666655555MMML
+8888888666665555MMMMMMLL8&('((((
+888888866666555M8!'&&&&'''''((((
+888888866666655555M:'&&&'''''((((
+888888866668
+888888868
+88888888
+88888888659!$$$$$&&&&&&''''(((((
+888888886665
+88888888666655<$!!!$$$$$$$$&&&&&'''''((
+88888888666659!!!!$$$$$$$$&&&&&'''''((([
+8888888866665;&$$$&&&&&'''''(((((
+888888886666655
+888888886666655555MMML:&$$$&&&&&&''''(((((
+88888888666665555MM8!$$$$$&&&&&&''''(((((
+888888886666655M
+888888886666655M8>$!$$$$$$$$&&&&&'''''((((O
+88888888666665M
+88888888669!!!!!!!!$$$$$$$$&&&&&&'''[
+88889
+889>!!!!!$$$$$$$$&&&&&''''''
+88<!!!!!!!$$$$$$$$&&&&&&''''
+89999:::::
+8;>>>>>>!!!!!!!!!$$$$$$$$$&
+8\$Pt
+8_][^
+8_^]
+8_^][
+8csm
+8LMLLLLLLRRRRRRuuRuuuU
+8LMLLLLLRRRRRRRuuRuuuU
+8PC80F
+8PFC8C
+8RLLLMMMMM555566666888888:
+8RRLLLLLMLMMM555556666888;<
+8SUV
+8SUVW
+8SVW
+8UVW
+9600
+999(((
+999444&&&
+999444'''"""
+9999
+99999
+999999
+999999999
+999999999999
+999999999999999
+999999999999999999
+999999999999999999999
+9999999999999999999993
+999999999999999999999999999
+999999999999999999999999999999
+999999999999999999999999999999999
+999999999999999999999999999999999999
+999999999999999999999999999999999999999
+999999999999999999999999999999999999999999999
+999999999999999999999999999999999999999999999999
+999999999UUU
+999999fff
+9999:9
+9999::
+9999::::
+9999:::::
+9999::::::
+9999:;
+999:::
+999::::
+999::::9{
+999:::::
+999::::::
+999___
+999___999999999999999999999999___
+999_________BBB___
+999fff
+999L.
+999UUU______999999999999999___
+999www___MMM
+999wwwMMM999999999999UUUUUU999999___UUU
+999wwwwww
+99:::::
+99::::::
+9:9999
+9::::
+9\$ 
+9\$ t
+9\$ u
+9\$$
+9\$$t
+9\$$uD
+9\$$u~
+9\$(
+9\$(t
+9\$(u
+9\$(u~
+9\$,t
+9\$,u
+9\$0
+9\$0tc
+9\$4
+9\$8t&
+9\$dt
+9\$du
+9\$ht"
+9\$Hu
+9\$P
+9\$Tu
+9\$|
+9\$|u
+9]Lt[
+9^ u
+9^8t,
+9^<t
+9^<u
+9D$,
+9D$0
+9D$\u;
+9D$l
+9D$P
+9l$(u
+9l$,
+9l$,t
+9L$,u
+9L$4
+9l$8t{
+9L$<}
+9L$@
+9l$Hu
+9L$tu
+9n,t-
+9NHt
+9pH~
+9t$0~&
+9t$4u$
+9t$<~o
+9t$\
+9t*-
+9w\u
+9wdt#
+9wH~k
+9x\}
+9|$ t
+9|$ ~8
+9|$$
+9|$,t!f
+9|$0
+9|$0t
+9|$0uB
+9|$4t4f
+9|$8t2
+9|$8u>
+9|$L
+9|$ptE
+9|$t
+9|$T
+9|$XuB
+9~9h
+9~`u>
+: %d 
+:55555MMMMMLLLLLLRLRRRRuT
+:55555MMMMMMLLLLLRRLRRRu{_
+:68666665555MMMMMLLLLLLLR;(&''''(((((
+:888888886666655555MMMMLM>('''(((((
+:888888886666655555MMMMML
+:89999:::::
+:9999
+:9:::::
+:9G\
+::999
+:::9
+:::9999
+::::9999
+:::::
+:::::99
+:::::999
+:::::9999
+:::::99998
+:::::9:
+::::::9
+::::::99
+::::::999
+::::::9999
+::::::99998;!!!!!!!!!$$$$$$$$&&&&&&''[
+::::::999<>>>>>>>>>>!!!!!!!!$$$$$$~
+:;;;;
+:f=F
+:LMM5555566668688888
+:LMMMM5555566666688888888
+:MMMMMLLLLRLRRRRRRuuuuy
+;-:m%
+;6665555MMMMMLLLLLLLRRRRRUA
+;:999
+;;;;
+;;;;;
+;;;;;;
+;<<<
+;<<<<<
+;D$ |
+;D$,~*
+;L$(}
+;L$L
+;t$ 
+;t$ }E
+;T$,~
+;T$<tK;L$@u
+;T$Dt?
+;t--B
+;u$u
+;wp3
+;|$4u
+;|$x~
+< u[
+<&ub
+<(uI
+<2u(
+<8555MMMMMLLLLLLRLRRRRRuy
+<855MMMMMMLMLLLRLRRRRRRux
+<88K
+<::::
+<<;66655555MMMMMLLLLLRLRRRRU
+<<<:68666665555M5MMMMLLLLLRL
+<<<<
+<<<<;
+<<<<;;;;
+<<<<<
+<<<<<!
+<<<<<<
+<<<<<<<
+<<<~
+<<uR
+<Generate the selected outline(s) to stitches
+<SUV
+<SUVW
+<SVW
+<UVW
+=,@O
+=0hO
+=0nO
+=`MO
+=DMO
+=l@O
+=tMO
+=w,3
+=x@O
+>!>!!!!!!!!!$$$$$$$$&&&&&~
+>"u:F
+>;99:::::
+>>8RLRRRRRRRuuuuuuuu~
+>><MLLLLLRLRRRRuRRuuuuL
+>>=223)))UUU
+>>>!
+>>>>$
+>>>>>!
+>>>>>!!!!!!!!!$$$$$$$$&&&[
+>>>>>>!!!!!!!!!$$$$$$$$$&[
+>>>>>>!!!!!!!!!$$$$$$$$$~
+>>>>>>8RLRRRRRRuuuuuuuuu~
+>>>>>>>!
+>>>>>>>!{vuuuuuuuuuuuT
+>>>>>>>>!!!!!!!!!$$$$$$$'
+>>>>>>>>!!!!!!!!$$$$$$$$O
+>>>>>>>>![
+>>>>>>>>>!
+>>>>>>>>>!!!!!!!!!!$O
+>>>>>>>>>!!!!!!!!!!'
+>>>>>>>>>!!!!!!!!!$$$$
+>>>>>>>>>!!!!!!!!!$$$$$[
+>>>>>>>>>!!!!!!!!!$$$$[
+>>>>>>>>>!!!!!!!!!$$$~
+>>>>>>>>>!!!!!!!!!$$~
+>>>>>>>>>!!!!!!!!!'
+>>>>>>>>>!!!!!!!!!~
+>>>>>>>>>!!!!!!!!$
+>>>>>>>>>!!!!!!!!$$$$$$$$~
+>>>>>>>>>!!!!!!$
+>>>>>>>>>!!!!!!O
+>>>>>>>>>!!!!!!V
+>>>>>>>>>!!!!!~
+>>>>>>>>>!!!!$~xMuuuuuuuSV
+>>>>>>>>>!!!!~
+>>>>>>>>>!!!<Muuuuuuuuuuuy
+>>>>>>>>>!!>~
+>>>>>>>>>!>$
+>>>>>>>>>$~T5RuuuuuRS~
+>>>>>>>>>>!!!!!!!!$$$$$$'
+>>>>>>>>>>$
+>>>>>>~
+>Generate by specifyed stitch number.
+??0CPPatternGeneraterInterfaceCHS@@QAE@XZ
+??0CPPatternGeneraterInterfaceENU@@QAE@XZ
+??0CPPatternGeneraterInterfaceFRA@@QAE@XZ
+??0CPPatternGeneraterInterfaceJPN@@QAE@XZ
+??1CPPatternGeneraterInterfaceCHS@@UAE@XZ
+??1CPPatternGeneraterInterfaceENU@@UAE@XZ
+??1CPPatternGeneraterInterfaceFRA@@UAE@XZ
+??1CPPatternGeneraterInterfaceJPN@@UAE@XZ
+??1type_info@@UAE@XZ
+???999444'''
+?Display program information, version number and copyright
+?es-8R
+?f=K
+?GetSewingData@CPPatternGeneraterInterfaceCHS@@QAEXAAUheader@@AAV?$CArray@UEMBDATA@@U1@@@@Z
+?GetSewingData@CPPatternGeneraterInterfaceENU@@QAEXAAUheader@@AAV?$CArray@UEMBDATA@@U1@@@@Z
+?GetSewingData@CPPatternGeneraterInterfaceFRA@@QAEXAAUheader@@AAV?$CArray@UEMBDATA@@U1@@@@Z
+?GetSewingData@CPPatternGeneraterInterfaceJPN@@QAEXAAUheader@@AAV?$CArray@UEMBDATA@@U1@@@@Z
+?hhctrl.ocx
+?StartPatternGenerater@CPPatternGeneraterInterfaceCHS@@QAEHVCString@@NAAH@Z
+?StartPatternGenerater@CPPatternGeneraterInterfaceENU@@QAEHVCString@@NAAH@Z
+?StartPatternGenerater@CPPatternGeneraterInterfaceFRA@@QAEHVCString@@NAAH@Z
+?StartPatternGenerater@CPPatternGeneraterInterfaceJPN@@QAEHVCString@@NAAH@Z
+?terminate@@YAXXZ
+?|0N
+@ Pj
+@ Qj
+@$,JF
+@$Qj
+@(RP
+@,f=
+@.data
+@0PUU
+@<@u%h
+@<@uU
+@@@444
+@@@999
+@@V3
+@@Vj
+@@Wj
+@Ph`
+@SUV
+@SUVW
+@SUVW3
+@SVW
+@toh
+@u%h,
+@u@j
+@uoh
+@uoh 
+@|0N
+@|PQU
+[$$$!!!!!!!!!!>>>>>>>>>>>
+[$$$$$$$!!!!!!!!!>>>>>>>>
+[&&&&$$$$$$$$$!!!!!!!!!>!
+['''&&&&&&$$$$$$$$$!!!!!!>96888888
+['(''&&&&&&$$$$$$$$!!!!!!
+[(('''''&&&&&&$$$$$$$$$!$!
+[((((('''''&&&&&$$$$$$$$$>65566668888888
+[-a-]
+[-c-]
+[[[[[[[[[[[[[[[[[~lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
+[[O[
+[^]d
+[_^]
+[_^d
+[AAAAAA***************}}}}
+[O[O[O[O
+[vRRRLLLLLLLMMMMM55555666
+\$ +
+\$ 9
+\$ ;
+\$ f
+\$ PQ
+\$ SRP
+\$ U
+\$ UV
+\$ V
+\$$#
+\$$C
+\$$j
+\$$PQ
+\$$RP
+\$$RPVW
+\$$SUVW
+\$$u
+\$$u-
+\$$UV
+\$$UVW
+\$$V
+\$(C3
+\$(j
+\$(P
+\$(PQWS
+\$(QR
+\$(S
+\$(U
+\$(UVW
+\$(uZ
+\$(V
+\$(~r
+\$,+
+\$,3
+\$,f
+\$,h&
+\$,j
+\$,P
+\$,QR
+\$,QSR
+\$,RP
+\$,u
+\$03
+\$0;
+\$0B
+\$0G;{\
+\$0h
+\$0j
+\$0P
+\$0Pj
+\$0PQ
+\$0PSS
+\$0QR
+\$0RPWS
+\$0S
+\$0u>
+\$4+
+\$42
+\$43
+\$4;
+\$4j
+\$4Q
+\$4QR
+\$4QRVW
+\$4RP
+\$4t
+\$4u3
+\$4WS
+\$4~q
+\$6B
+\$89
+\$8;
+\$8j
+\$8P
+\$8Q
+\$8RPVW
+\$8u
+\$8W
+\$:B
+\$<3
+\$<;
+\$<;|$0}
+\$<C
+\$<RP
+\$<VW
+\$@+
+\$@9
+\$@C
+\$@f=
+\$@j
+\$@RP
+\$@y
+\$\#
+\$\3
+\$\9
+\$\S
+\$`3
+\$`SRP
+\$Bf
+\$Df=2
+\$Dj
+\$DU
+\$dU
+\$DUV
+\$D~
+\$FVh
+\$h#
+\$H3
+\$h;
+\$H;
+\$HBH;
+\$hj
+\$Hj
+\$hPQVW
+\$HQR
+\$Htt
+\$Hu
+\$Hu>
+\$HuB
+\$HUV
+\$hWSS
+\$l+
+\$l3
+\$L;
+\$lj
+\$LP
+\$LQR
+\$LRP
+\$LS
+\$LV
+\$p3
+\$Pj
+\$PPQ
+\$PQ
+\$PQRVW
+\$Pt
+\$PUVW
+\$t3
+\$T3
+\$Tj
+\$TPSWV
+\$TQR
+\$TR
+\$tUV
+\$x3
+\$X3
+\$X;
+\$XK
+\$XPQ
+\$XRP
+\$xUV
+\$xuy
+\$XVWj
+\$x~q
+\$|#
+\$|PQ
+\$|UV
+\&999
+\*.*
+\999
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\PS-300B
+\SUV
+\SUVW
+\SVW
+\tR=
+]1111111111111111111]]]]11]]11111111]]]]]]]]]]]
+]8<FPF
+][_^
+]]]]
+]]]]]]]]]]]]]]]]]]]]]]]1]]1]]1]]]11]]
+]]PF]]]F
+]_^[
+]o_u
+^ USj
+^)999
+^<_^][
+^@UQ
+^][_
+^][d
+^][Y
+^]_[
+^`Qh
+^`RP
+^`Sh
+^f9A
+^f9P
+^xPh
+_ VQ
+_***************AAAAA
+_***************AAAAAA
+_*************AAAAAA
+_***********AAAAAA
+_-LN-"
+_/////////////
+_@|0N
+_[^]Y
+_[^Y
+_][^
+_][d
+_]^[
+_^[d
+_^[t
+_^[Y
+_^]3
+_^];
+_^]@[
+_^][
+_^][d
+_^][t
+_^][Y
+_^]d
+_^]f
+_^]f3
+_^f3
+___999
+___999999999999999999999999
+___999999___
+_______________
+____________________
+_______________________________
+___________________________________________
+____________BBB___
+___MMMBBB
+___MMM{{{
+___SRSFFF:::///&'&
+___www999999___
+___www999999___UUU
+__CxxFrameHandler
+__dllonexit
+__getmainargs
+__p__commode
+__p__fmode
+__set_app_type
+__setusermatherr
+_acmdln
+_adjust_fdiv
+_CIasin
+_CIfmod
+_CIpow
+_controlfp
+_except_handler3
+_exit
+_f9F
+_ftol
+_hypot
+_initterm
+_ismbcdigit
+_mbschr
+_mbscmp
+_mbsicoll
+_mbsinc
+_mbslen
+_mbspbrk
+_mkdir
+_Ngw
+_onexit
+_purecall
+_setmbcp
+_splitpath
+_stricmp
+_XcptFilter
+_XXXXXXXXXXX
+_XXXXXXXXXXXXXXX1
+_XXXXXXXXXXXXXXXX
+_XXXXXXXXXXXXXXXXX1
+_XXXXXXXXXXXXXXXXXXXX
+_XXXXXXXXXXXXXXXXXXXXXX
+_XXXXXXXXXXXXXXXXXXXXXXXXX
+_XXXXXXXXXXXXXXXXXXX}}}}}*
+_XXXXXXXXXXXXXXXXX}}}}}***
+_XXXXXXXXXXXXXXXXX}}}}}}**
+_XXXXXXXXXXXXX}}}}********
+_XXXXXXXXXX}}}}}}*********
+_XXXXXXXX}}}}}}***********
+_XXXX}}}}}****************
+_XX}}}}}****************A*
+_X}}}}}*****************AO
+_}*****************AAAAAAOSRLLLLLLMMMMM555556666668V
+_}}}****************AAAAA
+_}}}}XXXXXXXXXXXXXXX
+_}}}}XXXXXXXXXXXXXXXXXXXXX
+_}}}}}*****************AA
+_}}}}}*****************AAA
+_}}}}}****************AAAO
+`,999
+`.rdata
+`999
+`ff9@ffffff)@333333
+`SUV
+`SUVW
+`www
+A Pj
+A SUV
+A Vj
+A!7/
+A$VW
+A((((
+A***************}}}}}XXXX_
+A*************}}}}}XXXXXX
+A,V3
+A-L#
+A<FFF
+A@SVW
+A[UU:
+A\SUV
+A`Ph
+AAA***************}}}}}}
+AAAA***************}}}}}X
+AAAAA
+AAAAAA
+AAAAAA**
+AAAAAA***
+AAAAAA****
+AAAAAA*****
+AAAAAA*******
+AAAAAA**********
+AAAAAA***********
+AAAAAA*************
+AAAAAA****************
+AAAAAA***************}}_
+AAAAAA***************}}}}_
+AAAAAAA*****
+AAAAAAA*******
+AAAAAAA********
+AAAAAAA*************
+AAAAAAA***************
+AAAAAAA**************}*_
+AAAO
+About PS300B
+About4Quit the application; prompts to save documents
+Absolute Coordinate
+Activate Task List
+Activate this window
+Actual Size
+Add Point
+Add Punch Point
+ADSUVW
+ADVAPI32.dll
+AHFJ
+Align To Bottom
+Align To Bottom;Align the selected objects to center point.
+Align To Center
+Align To CenterNAlign the selected objects to sewing area's center
+Align To Coordinate Original Point
+Align To Left
+Align To Left8Align the selected objects to right side.
+Align To Right
+Align To Right4Align the selected objects to top side.
+Align To Sewing Area Center
+Align To Sewing Area Center$Align To Coordinate's Original Point
+Align To The Origin Of The Coordinate
+Align To Top
+Align To Top4Align the selected objects to bottom
+Alignment
+All Rights Reserved.
+Angle
+Angle :
+Angle: 
+APPDATA
+AppendMenuA
+Apply
+AQh`
+Arial
+Arrange Icons/Arrange windows so they overlap
+At!j
+atof
+atoi
+Attribute
+Auto save
+Auto Sequence
+Auto Time
+Autosaved_
+B0QP
+BA'8
+Background
+Balanced Width
+BAS300G
+BAS311G
+BAS311H
+BAS326G
+BAS342G
+BAS342GP
+BAS342GXL
+BAS342GXL_sp
+BAS364E
+BAS366E
+BAS370E
+BAS375E
+Baste
+Baste(Rotate 45 degrees by right direction
+Baudrate : 
+BBB""""""
+BBB""""""wwwwwwqqqlllZZZOOO
+BBBBBB
+bbbMMMCCC   
+bbbWWWMMMCCC   
+BClear the selected outline but leave its sewing data
+BE438F
+BEIC
+BHHPQ
+BitBlt
+Black
+BLOCKS
+Blue
+Border
+Brother Industries, Ltd.
+Brother Industries, Ltd.\
+BRPj
+C F;
+C WP
+C&ounterclockwise
+c/999
+c999
+C:\Temp
+C<#u?
+C\F;
+C\G;
+C\V;
+Can not add cutter_on code.
+Cancel
+Cancel Preview
+CancelWIf you execute this function,  all of outlines will be resized.
+Cannot open the file. 
+Cascade Windows5Arrange windows as non-overlapping tiles
+CChildFrame
+Center
+Center circle
+Center Circle
+Center Line
+CF Drive
+CF Drive :
+CFileDlgEx
+CH][Y
+CH_H^
+Change color
+Change Data Type
+Change Speed
+Change the window position
+Change the window size
+CHf-
+CHF;
+CHfH
+CHG;
+Chinese
+Circle
+CIRCLE
+Circle?Make circle by specifying center point and radius
+cj]]]PFP]sw
+CLASSES
+Clear All2Clear the selected outline's stitches
+Clear Outline
+Clear Outline(Can not use this software. Time expired!CSet the Start/End point(s) of ellipse or circle
+Clear Stitch
+Clear Stitch$Slowly daw the sewing data
+ClientToScreen
+Close
+Close Outline
+Close the active document
+CloseClipboard
+ClosePrinter
+CLSID\{ADB880A6-D8FF-11CF-9377-00AA003B7A11}\InprocServer32
+CMainFrame
+Co&des
+Code
+Code List
+Code Setting
+Code Window X
+Code Window Y
+Code?Change stitch to feed or change feed to stitch
+Color
+color 01
+color 02
+color 03
+color 04
+color 05
+color 06
+color 07
+color 08
+color 09
+color 10
+color 11
+color 12
+color 13
+color 14
+color 15
+color 16
+Color :
+Color Dialog
+Color Set
+Com Port : 
+COM1
+COM2
+COM3
+COM4
+COM5
+COM6
+COM7
+COM8
+COM9
+COMCTL32.dll
+comdlg32.dll
+Comment :
+Comment : 
+Comments
+CompanyName
+Compensation :
+Confirm
+Connect
+Connection :
+Continue
+Continue to make data
+Copy
+Copy To(Move data to where you inputted.
+Copy To...
+Copy1Cut the selection and put it on the Clipboard
+CopyFileA
+CopyRect
+Copyright (C) 2004
+Copyright (C) 2005-2008 Brother Industries, Ltd.
+Copyright 2005-2008 Brother Industries, Ltd. All right reserved.
+Count
+Courier
+CPageAttribute
+CPageBorderAttribute
+CPageRunningAttribute
+CPS300BDoc
+CPS300BView
+Create a new document
+Create baste data
+CreateCompatibleBitmap
+CreateCompatibleDC
+CreateDCA
+CreateDirectoryA
+CreateFontA
+CreateMutexA
+CreatePen
+CreatePopupMenu
+CreateSolidBrush
+CreateStreamOnHGlobal
+CRulerCornerView
+CRulerView
+Cs3<
+cT6.2`
+Ctrl+A
+Ctrl+C
+Ctrl+M
+Ctrl+N
+Ctrl+O
+Ctrl+P
+Ctrl+S
+Ctrl+T
+Ctrl+V
+Ctrl+X
+Ctrl+Y
+Ctrl+Z
+Cu&t
+Current Directory
+Cusp
+Cutter On
+Cyan
+CZoomView
+D$  
+D$ !
+D$ %
+D$ (
+D$ +
+D$ 0
+D$ 3
+D$ 9A
+D$ ;
+D$ <
+D$ @C
+D$ \
+D$ _^
+D$ _^[
+D$ _^]d
+D$ d
+D$ dQO
+D$ f
+D$ F;
+D$ f;
+D$ G;
+D$ h
+D$ H
+D$ h&
+D$ h0
+D$ ht
+d$ j
+D$ j
+D$ l
+D$ M
+D$ N
+d$ P
+D$ P
+d$ PQ
+D$ PQ
+D$ PQPW
+D$ PQu
+d$ PR
+D$ PV
+D$ PW
+D$ Q
+D$ Qj
+D$ QP
+d$ QPR
+D$ QPW
+D$ QR
+D$ QRh
+D$ QRP
+D$ QRPS
+D$ QURP
+D$ R
+d$ R
+D$ Rh
+D$ RP
+D$ RPj
+d$ RPQ
+D$ RPQW
+D$ RPSV
+D$ RPWQ
+D$ SP
+D$ T
+D$ u
+D$ U
+D$ UP
+D$ uR
+D$ V
+D$ VP
+d$ VP
+d$ VQ
+d$ VR
+D$ W
+D$ WP
+D$ WQ
+d$ WQ
+d$ WR
+D$ WVPSj
+D$ WVQR
+D$ xQO
+D$ xWO
+D$ |
+D$"%
+D$"f;D$*uz
+D$$ 
+D$$!
+D$$"
+D$$#
+D$$$
+D$$%
+D$$&
+D$$'
+D$$(
+D$$)
+D$$*
+D$$+
+D$$,
+D$$-
+D$$.
+D$$/
+D$$0
+D$$1
+D$$2
+d$$3
+D$$3
+D$$4
+D$$6
+D$$8
+D$$:
+D$$;
+D$$<
+D$$>
+D$$@
+D$$\
+D$$^
+D$$_
+D$$au*
+D$$B
+D$$C;
+D$$D
+D$$d
+D$$E;
+D$$f
+D$$F
+D$$F;
+D$$G;
+D$$G;x
+D$$H
+D$$h
+d$$j
+D$$J
+D$$j
+D$$jdP
+D$$L
+D$$N
+D$$P
+d$$P
+D$$Pj(
+D$$PQ
+d$$PQ
+d$$PQV
+d$$PR
+D$$Q
+D$$Q3
+D$$QP
+d$$QR
+D$$QR
+D$$QRh
+D$$QRP
+d$$QRV
+D$$QWR
+D$$R
+d$$R
+D$$Rh
+d$$RP
+D$$RP
+D$$RPQj
+d$$RPV
+D$$RPVW
+D$$RQP
+d$$S
+d$$SP
+D$$SP
+d$$SPV
+d$$SQ
+d$$SQV
+d$$SRV
+D$$T
+D$$U
+D$$u
+D$$UP
+D$$UPh
+d$$UQ
+d$$UR
+d$$V
+D$$V
+D$$VP
+d$$VP
+d$$VQ
+d$$VR
+D$$W
+d$$W
+D$$W3
+D$$WP
+d$$WP
+d$$WPV
+d$$WQ
+d$$WQV
+d$$WR
+D$$WR
+D$$WSUQRP
+D$$WVRP
+D$$xQO
+D$$xWO
+D$$|
+D$((
+D$(+
+D$(,XO
+D$(3
+D$(9
+D$(;
+D$(=
+D$(@
+D$(^]
+D$(A;
+D$(C;
+D$(d
+D$(dQO
+D$(f
+D$(F;
+D$(G;
+D$(h
+d$(j
+D$(j
+D$(jdP
+D$(P
+d$(P
+D$(PQ
+D$(PQR
+D$(PQu
+D$(PVSW
+D$(Q
+d$(QP
+D$(QP
+D$(QRP
+D$(QRPj
+D$(QRPUWS
+d$(R
+D$(R
+D$(Rh
+D$(Rj
+d$(RP
+D$(RP
+D$(RPSU
+D$(RPVW
+d$(RQ
+D$(SP
+D$(SUV
+D$(SV
+D$(t9
+D$(t?
+D$(u
+D$(U
+D$(UP
+d$(UP
+D$(UV
+D$(V
+d$(V
+d$(VP
+D$(VP
+d$(W
+D$(WP
+d$(WR
+D$(WRP
+D$(xQO
+D$(xWO
+D$(|
+D$*f
+D$,!u
+D$,'
+D$,(
+D$,+
+D$,3
+D$,8hO
+D$,9\$(
+D$,9\$@t/
+D$,;
+D$,;D$
+D$,<
+D$,@t(
+D$,d
+D$,dQO
+D$,E
+D$,f
+D$,F
+D$,F;
+D$,F;p
+D$,g
+D$,GJAH
+D$,h
+D$,j
+d$,P
+D$,P
+D$,Pj
+D$,Pj#
+d$,PQ
+D$,PQ
+D$,PWSQV
+D$,Q
+d$,Q
+d$,QP
+D$,QRP
+D$,QS
+D$,R
+d$,R
+D$,RP
+D$,RPQ
+d$,RQ
+D$,SP
+D$,tQ
+D$,u
+D$,UP
+D$,UPS
+d$,V
+D$,VP
+D$,W
+D$,Wj
+D$,WP
+D$,WSUQRP
+D$,xWO
+D$.f
+D$.j
+D$0#
+D$0+
+D$0,XO
+D$00
+D$03
+D$09}
+D$0;
+D$0<
+D$0<#
+D$0_
+D$0_[
+D$0A
+D$0f
+D$0f;
+D$0F;
+D$0G;
+D$0h
+D$0j
+D$0jfP
+d$0P
+D$0P
+d$0PQ
+D$0PQ
+D$0Q
+d$0QP
+D$0QPP
+D$0QRP
+D$0QSR
+D$0QWRP
+D$0R
+d$0R
+D$0RP
+D$0RPQ
+D$0RPV
+D$0RVP
+D$0SP
+D$0t
+D$0U
+D$0uL
+D$0UUP
+D$0VP
+d$0VP
+d$0VR
+D$0WP
+D$0xQO
+D$0xWO
+D$0}.P
+D$2f
+D$2f;
+D$2G
+D$4(
+D$42
+D$4;
+D$4;t$
+D$4<
+D$4<(uj
+D$4\
+D$4]
+D$4_]
+D$4_^
+D$4_^[
+D$4C
+D$4f
+D$4F;
+D$4FH;
+D$4h
+D$4hL
+D$4I
+D$4j
+D$4P
+d$4P
+D$4Q
+D$4QRP
+D$4R
+d$4R
+D$4Rj
+D$4RP
+D$4SP
+D$4SRP
+D$4SUVW
+D$4UP
+D$4V
+D$4VP
+D$4W
+D$4WP
+D$4xQO
+D$4|
+D$6f
+D$8#
+D$8+
+D$8+T$X
+D$82
+D$83
+D$89]
+D$8;
+D$8<XO
+D$8@
+D$8_
+D$8_][d
+D$8B
+D$8C
+D$8dQO
+D$8f
+D$8F;
+D$8G;
+D$8H
+D$8h
+D$8h,
+D$8h6
+D$8j
+d$8j
+D$8jhP
+D$8P
+D$8Pj
+d$8PQ
+D$8PQ
+D$8PR
+d$8PR
+D$8Pu
+D$8PW
+D$8Q
+d$8QP
+D$8QRP
+D$8QURP
+d$8R
+D$8R
+D$8RP
+D$8S
+D$8SP
+D$8V
+d$8V
+d$8VP
+D$8VP
+D$8W
+d$8WP
+D$8WP
+d$8WQ
+D$8xQO
+D$8|
+D$:f
+D$<%
+D$<+
+D$<3
+D$<;
+D$<_^]
+D$<A
+D$<CF;
+D$<f
+D$<F;
+D$<F;p\
+D$<G
+D$<H
+D$<h`
+D$<hM
+D$<j
+D$<P
+d$<P
+D$<PQ
+D$<Q
+D$<QR
+D$<QRP
+D$<QUPV
+d$<R
+D$<RP
+D$<SP
+D$<u
+D$<UUUP
+d$<V
+d$<VP
+D$<VP
+d$<VQ
+D$<W
+d$<WP
+d$<WR
+D$<xWO
+D$<|
+D$<~
+D$>f
+D$@#
+D$@+
+D$@,XO
+D$@3
+D$@;
+D$@_^
+D$@_^]d
+D$@f
+d$@h
+D$@h`
+D$@j
+D$@jjP
+d$@P
+D$@P
+d$@PQ
+D$@PQR
+d$@PR
+D$@Q
+D$@QR
+D$@QRP
+D$@R
+d$@R
+D$@Rh
+D$@RP
+d$@RSWV
+D$@S
+D$@Sh
+D$@SP
+d$@SP
+d$@SQ
+D$@SUVW5
+D$@t
+D$@U%
+D$@URP
+d$@V
+d$@VP
+D$@VP
+d$@VQ
+d$@W
+D$@WP
+d$@WP
+d$@WQ
+d$@WR
+D$@|
+D$\3
+D$\;
+D$\F
+D$\f
+D$\G;
+D$\j
+D$\P
+D$\PQ
+d$\PQ
+D$\Q
+D$\QRP
+d$\R
+D$\R
+D$\RP
+d$\RP
+D$\S
+D$\u
+d$\VP
+D$\W
+D$^j
+D$`#
+D$`3
+D$`8hO
+D$`;
+D$`<
+D$`A
+D$`f
+D$`H
+D$`h0
+D$`I;
+D$`j
+D$`P
+d$`PQ
+D$`Q
+D$`QRP
+D$`R
+D$`RP
+D$`SP
+D$`u
+d$`V
+D$`VP
+D$`WP
+D$D%
+D$d(
+D$d+
+D$D,XO
+D$d3
+D$D3
+D$d;
+D$D;
+D$D<XO
+D$dA
+D$Df
+D$DG;
+D$DH
+D$DhN
+D$Dj
+d$Dj
+d$dj
+D$dj
+D$dj@j@P
+D$dp
+D$DP
+d$dP
+d$DP
+D$dP
+d$dPQ
+d$dPR
+D$dQ
+D$DQ
+d$DQP
+D$DQR
+D$DQRP
+d$DQRU
+D$DQRVWP
+D$DQUPV
+D$dR
+D$DR
+d$DR
+d$dR
+D$dRhh
+D$DRP
+D$dRP
+d$dRP
+d$dRQ
+D$dSP
+D$DSP
+D$dSU
+D$DSVW
+D$dSW
+D$Dt
+d$DU
+D$Du&
+D$DUP
+D$DUS
+D$DUSQ
+D$dVP
+d$DVP
+D$DVP
+d$dVP
+d$DVPU
+d$DVQ
+D$DVQ
+d$DVR
+d$dVR
+d$DVRU
+D$DVW
+d$DW
+D$DWP
+d$DWR
+D$DxWO
+D$d|
+D$F%
+D$Ff
+D$Ff=
+D$H 
+D$H"
+D$H"RP
+D$h#
+D$H$
+D$H$RP
+D$H%
+D$H&
+D$H&RP
+D$H(
+D$H(RP
+D$H*
+D$H*RP
+D$H,
+D$H,RP
+D$H.
+D$H.RP
+D$H0
+D$H0RP
+D$H2
+D$H2RP
+D$H3
+D$h3
+D$H4
+D$H4RP
+D$H6
+D$H6RP
+D$H8hO
+D$H;
+D$h;
+D$H\
+D$hB
+D$hf
+D$HF;
+D$HH
+D$hh2
+D$hhh
+D$HHt
+D$Hj
+D$HJ
+D$hj
+D$HjlP
+d$hP
+d$HP
+D$HP
+D$hP
+D$HPQ
+d$HPQ
+d$HPR
+D$HPu
+D$HPWRQ
+D$hQ
+D$HQ
+D$hQP
+D$HQRP
+D$hQRPh
+d$HR
+D$HR
+D$hRP
+D$HRP
+d$hS
+D$HSP
+D$HSUVWPj
+D$HtX
+D$hu
+D$HUP
+D$HVP
+D$hVP
+d$hVP
+d$HVP
+d$HVQ
+D$HVSURP
+D$HW
+D$HWP
+D$hWP
+d$HWR
+D$h|
+D$Jf
+D$jf
+D$Jf=
+D$k3
+D$l 
+D$L!
+D$l#
+D$L#
+D$l%
+D$L%
+D$L'
+D$L(
+D$L)
+D$l+
+D$L+
+D$L-
+D$L/
+D$L1
+D$L2
+D$l2
+D$L3
+D$L5
+D$L7
+D$L;
+D$l<
+D$L<
+D$l=
+D$L@
+D$Lf
+D$lf
+d$Lf
+D$lF;
+D$LF;
+D$LG;x
+D$Lh
+D$LhL
+D$Lj
+D$LJ
+D$lj
+D$LjZVW
+d$lP
+D$lP
+d$LP
+D$LP
+D$LPQ
+D$lPQ
+d$lPQ
+D$lPU
+D$LPWS
+D$LQ
+D$lQ
+D$lQR
+D$LQRP
+D$LQUPV
+D$lR
+D$LR
+d$LR
+d$lR
+D$lRP
+D$LRP
+D$lRPj
+D$LRPQ
+d$LSP
+D$LSP
+D$Lt
+D$Lu
+D$LUP
+d$LURS
+d$LV
+D$lVP
+D$LVP
+d$lVP
+D$LVQ
+d$lVQ
+d$LVQ
+D$lWP
+D$LxQO
+D$LxWO
+D$nf
+D$Nf=
+D$p!
+D$P%
+D$p%
+D$P(
+D$P,XO
+D$P3
+D$p3
+D$P9pH~s
+D$P;
+D$p=
+D$pf
+D$Pf=
+D$pG;
+D$pH
+D$Ph
+D$ph
+D$Ph4
+D$Phd
+d$Pj
+D$pj
+D$Pj
+D$PP
+D$pP
+d$PP
+D$PPQ
+D$pPQ
+D$pPR
+D$PPW
+D$pQ
+D$PQ
+d$pQR
+D$pQRP
+D$PQRP
+D$pQRVWP
+d$PR
+d$pR
+D$pRP
+D$PRP
+D$pSP
+D$PSP
+D$ptL
+D$Pu
+D$PU
+D$pu\
+D$pUP
+D$PVP
+D$pVP
+d$pVQ
+d$PW
+D$PWh
+D$pWj
+D$pWP
+d$pWP
+d$pWQ
+d$pWR
+d$PWR
+D$PxWO
+D$T 
+D$t P
+D$t#
+D$T#
+D$T+
+D$T,XO
+D$T3
+D$t3
+D$t;
+D$T<
+D$Tf
+D$Th
+D$Tj
+D$tj
+d$tP
+D$tP
+d$TP
+D$TP
+D$TQ
+D$tQRP
+D$TQRP
+d$TR
+D$TR
+D$tRP
+D$TRP
+D$TRPQ
+D$tSP
+D$TSUVW
+D$TSUVW3
+D$Tt
+d$tUR
+D$TUUUP
+d$TV
+D$TV
+d$tVP
+d$TVPW
+d$tVR
+D$tWP
+D$TWP
+D$vf
+D$x"
+D$x#
+D$X3
+D$x3
+D$X;
+D$X=
+D$x@j
+D$Xf
+D$xf
+D$XF;
+D$xf;D$(
+D$xH
+D$XH
+D$Xh
+D$Xh.
+D$xj
+D$Xj
+D$xj@j@P
+D$xP
+d$XP
+D$XP
+d$xPQ
+D$XPQ
+D$xPQRj<V
+D$xQ
+D$XQ
+D$xQPUR
+D$XQRP
+D$xQRP
+D$xQRPSWV
+d$XR
+d$xR
+D$XR
+D$xRP
+D$XRP
+D$XRUP
+D$XS
+D$xU
+D$Xu
+D$xUP
+D$XV
+d$XW
+D$xWP
+D$XWP
+D$x|
+D$Zf
+D$zf
+D$|#
+D$|3
+D$|;
+D$|_]^[d
+D$|h
+D$|Hf
+D$|j
+D$|P
+D$|PQ
+D$|PRQ
+D$|Q
+d$|R
+D$|RP
+D$|Sh
+d$|V
+d$|VR
+D$|WP
+D$~f=
+data added.
+Date
+DDD@
+DDDDD
+Deceleration
+DEF_PRIORITY 
+Default
+deg.
+Degree(s)
+Delete
+Delete-Duplicate a data which you selected
+DeleteMenu
+Design Info
+Design Info"Delete the selected objects
+Design Info...
+Design Information
+Design Name :
+DestroyIcon
+DestroyMenu
+DeviceCapabilitiesA
+DF`f
+DFFC8P
+DGenerate stitches by specify stitch number
+Digital Tension?First enter the thread tension code at the head of sewing data.DThe maximum number of tension codes in one sewing data should be 99.
+Direction
+DispatchMessageA
+DISPLAY
+Display the gridlines
+Divide
+DivideMConnect two outlines to one or connect open outlines to close outline
+Division :
+DlgDirListComboBoxA
+DM_COLLATE      
+DM_COLOR        
+DM_COPIES       
+DM_DEFAULTSOURCE
+DM_DUPLEX       
+DM_FORMNAME     
+DM_ORIENTATION  
+DM_PAPERLENGTH  
+DM_PAPERSIZE    
+DM_PAPERWIDTH   
+DM_PRINTQUALITY 
+DM_SCALE        
+DM_TTOPTION     
+DM_YRESOLUTION  
+DMBIN_AUTO         
+DMBIN_CASSETTE     
+DMBIN_ENVELOPE     
+DMBIN_ENVMANUAL    
+DMBIN_FIRST        
+DMBIN_LARGECAPACITY
+DMBIN_LARGEFMT     
+DMBIN_LAST         
+DMBIN_LOWER        
+DMBIN_MANUAL       
+DMBIN_MIDDLE       
+DMBIN_ONLYONE      
+DMBIN_SMALLFMT     
+DMBIN_TRACTOR      
+DMBIN_UPPER        
+DMBIN_USER         
+DMCOLOR_COLOR     
+DMCOLOR_MONOCHROME
+DMDUP_HORIZONTAL
+DMDUP_SIMPLEX   
+DMDUP_VERTICAL  
+DMORIENT_LANDSCAPE
+DMORIENT_PORTRAIT 
+DMPAPER_10X14             
+DMPAPER_11X17             
+DMPAPER_A3                
+DMPAPER_A4                
+DMPAPER_A4SMALL           
+DMPAPER_A5                
+DMPAPER_B4                
+DMPAPER_B5                
+DMPAPER_CSHEET            
+DMPAPER_DSHEET            
+DMPAPER_ENV_10            
+DMPAPER_ENV_11            
+DMPAPER_ENV_12            
+DMPAPER_ENV_14            
+DMPAPER_ENV_9             
+DMPAPER_ENV_B4            
+DMPAPER_ENV_B5            
+DMPAPER_ENV_B6            
+DMPAPER_ENV_C3            
+DMPAPER_ENV_C4            
+DMPAPER_ENV_C5            
+DMPAPER_ENV_C6            
+DMPAPER_ENV_C65           
+DMPAPER_ENV_DL            
+DMPAPER_ENV_ITALY         
+DMPAPER_ENV_MONARCH       
+DMPAPER_ENV_PERSONAL      
+DMPAPER_ESHEET            
+DMPAPER_EXECUTIVE         
+DMPAPER_FANFOLD_LGL_GERMAN
+DMPAPER_FANFOLD_STD_GERMAN
+DMPAPER_FIRST             
+DMPAPER_FOLIO             
+DMPAPER_LEDGER            
+DMPAPER_LEGAL             
+DMPAPER_LETTER            
+DMPAPER_LETTERSMALL       
+DMPAPER_NOTE              
+DMPAPER_QUARTO            
+DMPAPER_STATEMENT         
+DMPAPER_TABLOID           
+DMRES_DRAFT 
+DMRES_HIGH  
+DMRES_LOW   
+DMRES_MEDIUM
+Do snap setting
+Do you want to execute?%You can not set this value as a size.
+Do you want to generate stitch again?
+DocumentPropertiesA
+Don't have enough memory.
+doq.PM
+doq.pr
+doq.ti
+doq/ar
+doq/da
+doq1.0
+doq1</
+doq</d
+doq</p
+doq<ke
+doq>
+doqapp
+doqat.
+doqcke
+doqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoq
+doqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqt</
+doqet.
+doqing
+doqint
+doqite
+doqket
+doqkey
+doql>
+doqle 
+doqmod
+doqnte
+doqPap
+doqple
+doqPMH
+doqPMO
+doqPMS
+doqrma
+doqstr
+doqt.c
+doqt.t
+doqtic
+doqy</
+doqZ</
+DPtoLP
+DrawFocusRect
+DrawIcon
+DRIVER_INFO_1
+DRIVER_INFO_2
+dSUV
+DSUV
+DSUVW
+DSVW
+dt%-
+Duplicate
+DXF Unit
+E F;
+E QR
+E Rj
+E RP
+E Sj
+E SV
+E$N+
+E$PQR
+E&xit
+E.f;
+E4f;
+E8f;
+E\F;
+E\G;
+EDQRP
+EDQVRPS
+EDRP
+Eh;El
+EHC;
+EHF;
+EHH;
+Ellipse
+ELLIPSE
+ELPQWS
+ELQVRPW
+EnableWindow
+End Point :
+ENDBLK
+ENDSEC
+ENDTAB
+English
+Enlarge the window to full size"Switch to the next document window&Switch to the previous document window9Close the active window and prompts to save the documents
+ENTITIES
+EnumPrintersA
+Equal
+Erase
+Erase All3Copy the selection and put it on the Clipboard
+Erase everything
+Erase the selection
+essjjFCFPj0
+et%H
+Even if these files stored in different folders, the files with the same file name can not be opened at a time.
+Exit
+exit
+Export MOT
+Export Mot
+Export ROM File As MOT Format
+Extention
+F ,XO
+F 8hO
+F C;
+F E;
+F G;
+F hQ
+F jNP
+F QRP
+F Rj
+F Sj
+F SSU
+F Uj
+F Wj
+F WP
+F WSP
+f www
+f wwww
+F$Gf
+F(QRPj
+F(RP
+f3999vvv
+f3ff3f3
+f3fff
+F8<XO
+f999
+f9\$
+f9D$
+f9D$,ul
+f9D$4t
+f9D$ptGS
+f9L$X
+f9uBf
+f9uBj
+f9Z,u
+f9|$
+f;H u3
+f;H2u@
+f;L$"vk
+F;p\
+F;qH
+F<33KA
+F<E;
+F<QRPW
+F<RP
+F@UQ
+F\_]
+F\_^[
+F\C;
+F\E;
+F\I;
+F\SWPQ
+F`G;
+F`Ph
+F`PhDO
+F`UUS
+Failed to create a pattern.
+Failed to read the file.
+Failed to write the file.
+FALSE
+fclose
+FD-300
+FD300 Port
+Fd^Y
+FdPh
+Feed
+Feed#Make straight line(s)
+ff)@
+ff33
+ff9@
+ff9@t
+FFF///////////////   
+ffff
+FFFF
+ffff;
+ffffff999999fff
+fgets
+fgwwxw
+FH^][Y
+FH_H
+FHf-
+FHG;
+FHH;
+FhQRP
+FHW3
+File Name
+File name : 
+File Name:
+File Type:
+File with a same name as "%1!s!" is already opened.
+FileDescription
+FileVersion
+FillRect
+Find
+Find the specified text
+FindClose
+FindFirstFileA
+FindNextFileA
+Fit Frame Center to Data's Center
+Fit Frame Start Point to Data's Center
+Fit Paper
+Fit Sewing Area
+Fit Sewing Area To Window
+Fit Sewing Area To Window 
+Fit To Window
+Fit To Window7Fit the sewing area to window
+Flip
+Flip By Reference Line
+Flip Horizontally
+Flip HorizontallyDFlip the selected object(s) by reference line
+Flip Vertically
+Flip Vertically9Rotate the selected objectes by mouse drag
+FlPh7O
+FLu#
+Folder Info
+Folder Name:
+fopen
+FpPh
+FPQP
+FPWP
+Frame Center Coordinate
+FrameRect
+fread
+free
+French
+From
+Ft2-
+FtRP
+FtwE
+FtWj
+FTWP
+FTWPWWW
+FTxWO
+Fuchsia
+FX_^d
+FxPh+O
+FXQRP
+F|Ph
+G C;
+G Rj
+G VVh
+G(F;
+G@@upV
+G\_^]
+G\C;
+G\F;
+G_LAw
+GDI32.dll
+General
+Generate All
+Generate By Stitch Number
+Generate Select
+Generate Select#Clear all of the stitches
+GetCapture
+GetClientRect
+GetClipboardData
+GetComputerNameA
+GetCursor
+GetCursorPos
+GetDesktopWindow
+GetDeviceCaps
+GetFileAttributesA
+GetFocus
+GetKeyState
+GetLastError
+GetLocaleInfoA
+GetMenuItemCount
+GetMessageA
+GetModuleFileNameA
+GetModuleHandleA
+GetObjectA
+GetParent
+GetPixel
+GetPrinterA
+GetProcAddress
+GetStartupInfoA
+GetStockObject
+GetSubMenu
+GetSysColor
+GetSystemDefaultLCID
+GetSystemMetrics
+GetTextExtentPoint32A
+GetUIObjectOf failed! hr=%lx
+GetViewportOrgEx
+GetWindowLongA
+GetWindowRect
+gfff
+ggg`
+GH_^][Y
+GHC;
+GHF;
+GHH;
+Gj.W
+gL__4:
+gL_u'
+GlobalAlloc
+GlobalFree
+GlobalLock
+GlobalUnlock
+GlVP
+GPRPV
+Green
+Grey
+Grid
+Gridline
+GridLine Setting
+Gridline Setting
+Gridline Setting...
+Gridlines
+Gridlines-Display the reference window
+gwwwwwxwwx
+h 1O
+h gN
+H h(
+H SSh
+H Vh
+h!3O
+h" O
+h".O
+h$5O
+h$DN
+h(%O
+h('O
+h(*O
+h(:O
+h(;O
+h(`N
+h(OO
+h(RN
+h(wN
+h(zN
+h)tN
+h*aN
+h."O
+h.$O
+h.pN
+h.sN
+h/9O
+h00O
+h07O
+h0uN
+h2\N
+h3-O
+h3<O
+h3jN
+h4(@P
+h4MN
+h6fN
+h7!O
+h7999
+h8(O
+h8+O
+h8.O
+h83O
+h84O
+h8^N
+h8dN
+h8gN
+h8iN
+h8rN
+h8SN
+h9#O
+h:2O
+h:=O
+h;{N
+h<,O
+h=mN
+h>CN
+h@ O
+h@8O
+h@>O
+h@DN
+h@TN
+h@xN
+h[pN
+H\I;
+h^"O
+h^sN
+h`.O
+h`3O
+h`<O
+h`>O
+h`cN
+h`CN
+h`DN
+h`oN
+h`yN
+HaA[=3K
+hC)O
+hCvN
+hd5O
+he6O
+he[N
+HEADER
+Header
+Height
+Help...
+hH'O
+hh*O
+hh,O
+hH9O
+hh:O
+hH:O
+hH;O
+hh;O
+hh\N
+hH\N
+hh`N
+hH`N
+hHBN
+hhfN
+hhQN
+hhtN
+hHuN
+hj1O
+hJMN
+HKEY_CLASSES_ROOT
+HKEY_CURRENT_USER
+HKEY_LOCAL_MACHINE
+HKEY_USERS
+hkvN
+hk}N
+hLbN
+hMEN
+hn-O
+hn2O
+hn]N
+ho#O
+hO1O
+Hoop
+Horizontal
+Horizontal Spacing:
+hP%D
+hp'O
+hP*O
+hPfN
+hpqN
+hPQN
+hPwN
+hpwN
+hqaN
+hQaN
+hS%O
+HSPhN
+HSQPRPW
+HSU3
+HSUV
+hSUV
+hSUV3
+hSVW
+HSVW
+HuMh
+Huoh
+hV7O
+hx O
+hX O
+hX+O
+hx+O
+hx.O
+hx6O
+hx7O
+hx<O
+hx=O
+hX=O
+hX^N
+hxBN
+hxCN
+hxDN
+hXiN
+hxoN
+hXrN
+hxSN
+hXSN
+hXxN
+hxxN
+hxzN
+hx{N
+hX{N
+hYzN
+hZ8O
+hZPN
+h{(O
+h{uN
+I,f;H,t
+I@SV
+I@V3
+I\I;
+If the outline have sewing data, as default , the sewing data will be added to the first shape.
+If you generate it , the stitches and codes which you have edited will be cleared.?There is a mistake in the inputted data. Please check the data.BPlease input the center point's coordinate and the radius length. }Please input the ellipse's center point coordinate and the long radius' length(mm), short radius'length(mm) and rotate angle.
+If=*
+Image
+Image : 
+Image data's property
+ImageList_AddMasked
+ImageList_ReplaceIcon
+IMM32.dll
+ImmAssociateContext
+Import data from file
+Import design
+Import From / Export To Machine
+Import From File
+Import From File...
+Import to the current design
+Import...
+Import/Export
+Import<Input sewing data from machine media
+ImportExportMainCHS
+ImportExportMainENU
+ImportExportMainFRA
+ImportExportMainJPN
+in the U.S. and other countries.
+Inch
+InflateRect
+Input Outline(Stitch,Feed)
+Input Point
+Input stitch number
+Insert
+INSERT
+Insert Clipboard contents
+InsertMenuA
+InternalName
+IntersectRect
+InvalidateRect
+InvokeCommand failed. hr=%lx
+IsClipboardFormatAvailable
+isdigit
+IsIconic
+IsRectEmpty
+It failed in stitch generation.
+Items
+IThere is already an image data which have been imported. Can I delete it?iYou can not select this machine modle.
+j +xg
+j!UUj
+j'Pj
+j(j(
+j08CF"o
+j0RP
+j4PQ
+j4QR
+j999
+j:n?-R
+j?j?
+j?j?j
+j@j@
+j@j@R
+j@j@V
+j@j@WWUQ
+Japanese
+jdPhQ
+jjjFFP]j8
+jjjj
+jjjjj
+JJJlll;;;111   
+JPPPFFjjs
+js]PPPa]j
+Jt4=X
+Jt7-
+jZPQV
+jZUSQ
+jZVWQ
+K VW
+k!!!!!!!>>>>>>>>>>
+k!>!!>>>>>>>>>>
+k$!!!!!!!!!!>>>>>>>>>>
+k$$$$$$!!!!!!!!!!>>>>>>>>
+k&&&$$$$$$$$!!!!!!!!!!!>>>
+k@PQU
+k@W3
+K\PQR
+K`_^]3
+KE430F
+KERNEL32.dll
+Key ID : 
+KEYID
+kf=)
+kf=F
+KH@;
+KHIQR
+KillTimer
+kkk^^^
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk~kk[kkkk~~~~~~~~~~~~~V~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~kkkkkkkkkkkkk[kk[kkk
+kLRRRRRLLLLLLMMMMMM5M55U
+kLuRRRRLLLLLLLMMMMM55556
+kLuuuuuRRRRRRLRLLL5<
+kMuuRRRRRLLLLLLMMMMM555;>
+kUyxwx{[
+kxLuuuuuR5y~!>>>>
+k{xSSwxU
+L$ #
+L$ +
+L$ ,
+l$ 3
+L$ 3
+L$ ;
+L$ @
+L$ @N
+L$ ^
+L$ _
+L$ _^][d
+L$ _^d
+L$ _d
+L$ A
+L$ C
+L$ d
+L$ E;
+l$ E;
+L$ f
+L$ f-
+L$ F;
+L$ H
+L$ h
+L$ h<
+L$ hh
+L$ HPQ
+L$ j
+L$ P
+L$ Pj
+L$ PQ
+L$ PR
+L$ Q
+L$ Qj
+L$ QP
+L$ QR
+L$ QSh
+L$ QV
+L$ R
+L$ Rj
+L$ RP
+L$ RPh
+L$ RPQ
+L$ RPQht
+L$ RVPQSW
+L$ RWj
+l$ S
+L$ S
+L$ SWPQ
+L$ t
+L$ u
+L$ uF
+L$ UQ
+L$ URP
+L$ V
+l$ V
+l$ V3
+L$ VQ
+L$ VR
+L$ W
+L$ WQ
+l$ ~
+L$$#
+L$$%
+L$$+
+L$$,
+L$$9_H~K
+L$$;
+l$$;
+L$$@;
+L$$^d
+L$$_^
+L$$_^3
+L$$_^][d
+L$$_^]d
+L$$_^d
+L$$d
+L$$F
+L$$f
+L$$h
+L$$H
+L$$h 
+L$$j
+L$$j7Q
+L$$N
+L$$P
+L$$Ph
+L$$Phh
+L$$PQ
+L$$PQh
+L$$PQS
+L$$Q
+L$$QP
+L$$QW
+L$$R
+L$$R3
+L$$Rj
+L$$RP
+L$$RPh
+L$$RPQ
+L$$RWPQ
+L$$S
+L$$SQ
+L$$tC
+L$$th
+L$$U
+L$$uh
+L$$V
+L$$VQ
+l$$VW
+L$$WQ
+L$$WQS
+L$(#
+L$(%
+L$(+
+L$(+D$
+L$(3
+l$(9i
+L$(;
+L$(@;
+L$(^d
+L$(_^
+L$(_^[d
+L$(_^][d
+L$(_^]d
+L$(d
+L$(f
+L$(G
+L$(h
+L$(h?
+L$(h`
+L$(HPQ
+l$(j
+L$(j
+L$(P
+L$(Ph\
+L$(Pj
+L$(PPQj#
+L$(PQ
+L$(PQ+
+L$(PQQ
+L$(PQSU
+L$(Q
+L$(Qj
+L$(QP
+L$(QPP
+L$(QR
+L$(QRP
+L$(QVSW
+L$(R
+L$(RP
+L$(RPQ
+L$(RPQh@
+L$(RPQSSSSSS
+L$(RPQW
+L$(RV
+L$(S
+L$(SQ
+L$(t
+L$(u
+L$(u`
+L$(uD
+L$(V
+l$(V
+L$(VQ
+l$(VW
+L$(W
+L$(WVRP
+L$(~
+L$*f
+L$*f;L$"r
+L$*t
+L$,#
+L$,+
+l$,3
+L$,3
+L$,;
+L$,@;
+L$,^
+L$,_
+L$,_3
+L$,_^3
+L$,_^][d
+L$,_^]d
+L$,_^d
+L$,d
+L$,F
+L$,f
+L$,f-
+L$,f=
+L$,h
+L$,hT
+L$,j
+L$,N
+L$,P
+L$,Pj
+L$,PQ
+L$,PQR
+L$,PQWS
+L$,PR
+L$,Q
+L$,Qj
+L$,QP
+L$,QR
+L$,QV
+L$,QWSRV
+L$,R
+L$,RP
+L$,RPQ
+L$,RPQUWS
+L$,RPQVW
+L$,RQ
+L$,SQ
+L$,t
+L$,u
+L$,Uh
+L$,UQS
+L$,US
+l$,V
+l$,V3
+L$,VQ
+l$,VW
+L$,W
+L$,WP
+L$,WQ
+L$,~
+L$.R
+L$0#
+L$0+
+l$03
+L$03
+l$0;
+L$0;
+L$0^[d
+L$0_
+L$0_^]
+L$0_^][d
+L$0_^]d
+L$0_^]f3
+L$0_^d
+L$0_d
+L$0A
+L$0E
+L$0f
+l$0f;
+L$0h
+L$0j
+l$0j
+L$0O
+L$0P
+L$0Ph
+L$0PQ
+L$0PS
+L$0Q
+L$0Qj
+L$0QP
+L$0QR
+L$0QRP
+L$0QSj
+L$0QV
+L$0R
+L$0RPQ
+L$0SQ
+L$0SW
+L$0t
+L$0U
+L$0uJ
+L$0UP
+L$0UQR
+L$0uy
+L$0VQ
+L$0VVQ
+L$0WQ
+L$4#
+L$4+
+L$4+L$,;
+L$43
+L$4;
+l$4;
+L$4@
+L$4@;
+L$4^]3
+L$4^d
+L$4_
+L$4_^
+L$4_^[d
+L$4_^]
+L$4_^]3
+L$4_^][d
+L$4_^]d
+L$4_^d
+L$4d
+L$4f
+L$4f3
+L$4F;
+L$4G
+L$4h
+L$4j
+L$4P
+L$4PQ
+L$4PQQ
+L$4Q
+L$4QR
+L$4QRP
+L$4QSh
+L$4R
+L$4Rj
+L$4RP
+L$4RPQ
+L$4RQ
+L$4SQ
+L$4u
+L$4UQ
+L$4VQ
+L$4VVQ
+L$4VW
+l$4VW
+L$4}%
+L$8#
+L$8%
+l$8+
+L$8+
+L$83
+L$89T$<}
+l$8;
+L$8;
+L$8^[
+L$8^[d
+L$8^d
+L$8_
+l$8_^
+L$8_^][d
+L$8_^]d
+L$8_^d
+L$8_^f3
+L$8_d
+L$8d
+L$8f
+L$8F;
+L$8h
+L$8HPQ
+L$8hX
+L$8j
+L$8P
+L$8PQ
+L$8Q
+L$8QV
+L$8QW
+L$8R
+L$8RPQ
+L$8RQ
+L$8SQ
+L$8t
+l$8t
+L$8UQ
+L$8VQ
+L$8VR
+L$8WQ
+L$8WVQ
+L$<#
+L$<+
+L$<9t$0~
+L$<;
+L$<_
+L$<_^
+L$<_^[d
+L$<_^]
+L$<_^][d
+L$<_^]d
+L$<_^d
+L$<d
+L$<f
+L$<h
+L$<HPQ
+L$<j
+l$<j
+L$<P
+L$<Ph
+L$<Pj
+L$<PQ
+L$<PQV
+L$<Q
+L$<QRP
+L$<R
+L$<RP
+L$<RPQ
+L$<RQ
+L$<SQ
+L$<U
+L$<u0
+L$<V
+L$<VQ
+l$<VW
+L$<VWURPQ
+L$@+
+l$@3
+L$@3
+l$@;
+L$@;
+L$@^d
+L$@_^[d
+L$@_^]
+L$@_^]d
+L$@_^d
+L$@d
+L$@f
+L$@G
+L$@h
+L$@HPQ
+L$@j
+L$@P
+L$@P3
+L$@Pj
+L$@PQ
+L$@PQQ
+L$@Q
+L$@QPh
+L$@QR
+L$@R
+L$@RP
+L$@RPQ
+L$@SQ
+L$@u
+L$@UQV
+L$@VQ
+L$\ f
+L$\#
+l$\%
+L$\^
+L$\_
+L$\_^
+L$\_^]d
+L$\_^]f3
+L$\BQR
+L$\d
+L$\f
+l$\f
+L$\GC
+L$\h
+L$\j
+L$\P
+L$\PQ
+L$\PQU
+L$\PQVW
+L$\Q
+L$\Qj
+L$\R
+L$\RP
+L$\SQ
+L$\V
+L$\VQ
+L$\WQ
+l$^f
+L$^PR
+L$`3
+l$`;
+L$`_
+L$`_]^
+L$`_^]3
+L$`_^]d
+L$`_^d
+L$`_^f3
+L$`_f
+L$`d
+L$`f
+l$`f
+L$`h
+L$`j
+l$`j
+L$`P
+L$`Pj
+L$`PQ
+L$`Q
+L$`Qj
+L$`R
+L$`Rj
+L$`RPQ
+L$`SQ
+L$`U
+L$`u
+L$`VQ
+L$`WQ
+l$`}f
+l$`}g
+L$bf
+L$Bf
+L$d#
+L$D#
+L$D+
+L$d+
+L$D3
+L$D;
+L$D[_^]d
+L$d^]f3
+L$D^d
+L$d^d
+L$d_
+L$D_^
+L$D_^[d
+L$D_^]
+L$d_^][d
+L$D_^][d
+L$D_^]d
+L$d_^]d
+L$D_^]f3
+L$D_^f3
+L$dd
+L$Dd
+L$Df
+L$df
+L$Dh
+L$dh
+L$dhL
+L$dHPQ
+L$Dj
+l$dj
+L$dj
+l$djp
+L$DN
+L$dP
+L$DP
+L$DPj
+L$dPQ
+L$DPQ
+L$DPQj
+L$dPQUS
+L$dQ
+l$DQ
+L$DQ
+L$DQP
+L$dQR
+L$DQW
+L$DR
+L$dR
+L$DRP
+L$dRP
+L$DRPQ
+L$DRUQP
+L$dSPQ
+L$dSWPQ
+L$DtH
+L$DU
+L$DUQ
+l$DV
+L$dV
+L$DVQ
+L$dVQ
+l$dVW
+L$dWQ
+L$DWQ
+L$F3
+L$Ff
+L$ff
+L$H+
+L$h+
+l$h3
+L$h3
+L$H3
+l$H3
+l$H9kH
+l$H;
+L$H@;
+L$H_
+L$H_^
+L$h_^
+L$H_^3
+L$H_^]
+L$h_^]
+L$h_^]3
+L$H_^][d
+L$h_^][d
+L$h_^]d
+L$H_^]d
+L$H_^d
+L$h_d
+L$HAE
+L$HBQR
+L$hd
+L$Hd
+L$Hf
+L$hF
+l$hf
+L$hf
+L$hG
+L$Hh
+l$Hj
+L$Hj
+l$hj
+L$hj
+L$hK
+L$hP
+L$HP
+L$HPQ
+L$hPQ
+L$HPQR
+L$hQ
+L$HQ
+L$HQP
+L$HR
+L$hR
+L$HRP
+L$HRQ
+l$Ht
+L$ht
+L$Hu
+L$HuQ
+L$hUQ
+L$HUQ
+l$HV
+L$HVQ
+L$HVSUPQ
+l$HW
+L$hW
+L$HW+
+L$hWQ
+L$jf
+L$jj
+L$l#
+L$L#
+L$L+
+l$L3
+L$L3
+l$L;
+L$L@;
+L$l^d
+L$l_3
+L$l_^][d
+L$L_^][d
+L$L_^]d
+L$l_^]d
+L$L_^d
+L$Ld
+L$ld
+L$lF
+L$lf
+L$Lf
+L$Lh
+L$LHPQ
+L$Lj
+L$lj
+L$lP
+L$LP
+L$lPQ
+L$LPQ
+L$lPR
+L$LPWQV
+L$lQ
+L$LQ
+L$LQP
+l$LQR
+l$lQR
+L$lQR
+L$LQWS
+L$lR
+L$LR
+L$Lr>
+L$lRPQ
+L$LRPQ
+L$LRQ
+L$LSQ
+L$Lu
+l$lV
+l$lVW3
+l$lWj
+L$lWQ
+L$LWQ
+l$Nf
+L$Nf
+L$p#
+L$P#
+L$P+
+l$P+
+L$P3
+L$p;
+L$P;
+L$p^
+L$p^[d
+L$p^]3
+L$P_
+L$P_^
+L$p_^3
+L$P_^[d
+L$P_^]
+L$p_^]3
+L$P_^][d
+L$p_^][d
+L$P_^]d
+L$p_^]d
+L$p_^]f3
+L$P_^d
+L$p_^d
+L$P_f3
+L$pA
+L$pd
+L$Pd
+L$pF
+l$Pf
+L$Pf
+L$pf
+L$PH
+L$Ph
+L$Phh
+L$pHPQ
+l$Pj
+L$pj
+L$Pj
+l$pj
+L$Pj.
+L$pP
+L$PP
+L$PPQ
+L$pPQ
+L$PPQVW
+L$PQ
+L$pQ
+L$PR
+L$pR
+L$pRPQ
+L$PRPQ
+L$pRPQSUV
+L$PRQ
+L$PS
+L$PSQ
+L$PV
+L$PVP
+L$PVQ
+L$pVQ
+L$pW
+L$PWQ
+L$p}H
+L$rf
+L$Rf
+L$t#
+L$T#
+l$T#
+L$t3
+L$T3
+l$T3
+l$t9
+l$T9u
+l$t;
+L$T^]3
+L$T^d
+L$t_^
+L$T_^
+L$t_^][d
+L$T_^][d
+L$t_^]d
+L$T_^]d
+L$t_^]f3
+L$T_^]f3
+L$t_^d
+L$T_^f3
+L$td
+L$Td
+L$Tf
+L$tf
+L$TF;
+L$Th
+L$THPQ
+L$Tj
+L$tj
+L$tP
+L$TP
+L$tPj
+L$tPQ
+L$TPQ
+L$TPQV
+L$TPR
+L$tQ
+L$TQ
+L$TQj
+L$TR
+L$tR
+L$TRPQ
+L$TRQ
+L$tu
+L$TVQ
+L$tWQ
+L$t}H
+L$Vf
+L$Vj
+L$X+
+L$x+
+L$x3
+l$x3
+L$X3
+L$X;
+L$X@;
+L$X^d
+L$X_^][d
+L$x_^][d
+L$X_^]d
+L$x_^]d
+L$X_^d
+L$x_^f
+L$Xd
+L$xd
+L$xf
+L$Xf
+l$Xf
+L$Xh
+l$Xj
+L$Xj
+l$xj
+L$xj
+L$XP
+L$xP
+L$XPQ
+L$xPQ
+L$XQ
+L$xQ
+L$xQU
+L$xQWS
+L$xR
+L$XR
+L$XRP
+L$xRP
+L$XRPQ
+L$xRPQ
+L$XRQ
+L$xSQ
+L$Xt
+L$xW
+L$xWQ
+L$X}
+L$zf
+L$|]d
+L$|_^][d
+L$|_^]d
+L$|_^d
+L$|d
+L$|f
+L$|h
+L$|j
+L$|P
+L$|Pj
+L$|PQ
+L$|Q
+L$|R
+L$|RP
+L$|RPQ
+L$|t
+L$|UQ
+L$~f
+L$~j
+L(0R
+L40F
+L=%.3f, 
+Landscape
+Language
+Language : 
+Last select index
+Last Version : 
+LAYER
+Left Width :
+Left(In)
+LegalCopyright
+LegalTrademarks
+Length :
+Length : 
+Length(mm)
+less than 1mm
+Level 1
+Level 2
+Level 3
+Level 4
+Level 5
+Level 6
+Level 7
+Level 8
+Level 9
+LINE
+List1
+llk_
+LLL???999
+lllll
+llllllllllllllllllllllllllllllllll
+lllllllllllllll~lllll
+lllllllVlVlVlVlVlVllVlVlVlVlVlVllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
+LLLLRLRRRRRuRuuuuux
+lllMMMCCC   
+lllMMMCCC   CCCuuu
+LLLMMMM555566666888888889
+LLLRLRRRRRRRuuuuuux
+lllWWWMMMCCC   
+LLMMMMMM55556666668888888U
+llrrrr
+llrrrrll
+llrrrrrrrrrrrrrrrrrrr
+llrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrp
+LMMMM55555666688888888
+LoadBitmapA
+LoadCursorA
+LoadIconA
+LoadImageA
+LoadLibraryA
+LoadMenuA
+Long Radius(mm)
+LPtoDP
+lrrl
+lrrn
+lrrr
+lrrrr
+lrrrrn
+lrrrrr
+lrrrrrl
+lrrrrrr
+lrrrrrrl
+lrrrrrrrl
+lrrrrrrrr
+lrrrrrrrrr
+lrrrrrrrrrl
+lrrrrrrrrrr
+lrrrrrrrrrrrl
+lrrrrrrrrrrrr
+lrrrrrrrrrrrrr
+lrrrrrrrrrrrrrrrr
+lrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+lrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+lrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+lstrcpyA
+lstrcpynA
+LSUV
+lSUV
+lSUVW
+lSVW
+LSVW
+Lt8-%
+LuRRRRuuuuuuuux
+LWPOLYLINE
+M Pj
+M PQWV
+M Rj
+M RP
+M Sj
+M4WV
+M55555666688888888
+M5666668888888
+M<PS
+Machine 
+Machine model : 
+Machine Model Name
+Machine Model Setting
+Machine Model Setting*Import an image from file
+Machine Original Point
+Machine Start Point
+MachineList.ml
+Maintain
+Maintain Aspect Ratio
+Make arc line(s)
+Make circle by 3 points
+Make close outline
+Make ellipse
+Make manual feed(s)
+Make manual stitches
+Make polygon
+Make rectangle
+Make smooth arc
+Make spline line(s)
+malloc
+Manual Feed
+Manual Stitch
+Margin
+Margin :
+Marker
+Mask Size
+Mask Size :
+Max. Length
+MAX_PRIORITY 
+Maximum Length
+Maximum number of stitches : 
+Maximum Pitch
+Maximum stitch length :
+Mb@?
+MbP?-C
+MDRj
+Measure
+memmove
+MessageBeep
+MFC42.DLL
+MHfI
+Microsoft(R) and Windows(R) are either registered trademarks of Microsoft Corporation in the United States and / or other countries.
+MIN_PRIORITY 
+Minimum Pitch
+Minimum stitch length : 
+minutes
+Mirror Copy
+Mirror Copy/Swap the start/end points.
+MLINE
+MLLLLLRRLRRRRuRuuuuRk
+MM555556666688888888
+MMM5M555666668888888
+MMM999999
+MMM9999993
+MMM999999___
+MMM999999MMM999999
+MMMBBB"""
+MMMBBB333
+MMMBBB333BBBBBBBBB
+MMMCCC   
+MMMMLLLLLLRLRRRRRuuuuT
+MMMMMMMLLLLLRLRRRRRRuuy
+mmncccWWWKKJ
+Model Name :
+Modify point
+Move
+Move the data to the center of the design area or reduce its size.XYou can not set this value as a scale, because the data does overflow.
+Move To...
+Move To>Move outline in order to fit the two points you selected
+MRRRRRRuRuuuuuuuz
+MRRRRRuuuuuuuuuuT
+MS Sans Serif
+msctls_progress32
+msctls_trackbar32
+MSVCRT.dll
+MTPR
+MulDiv
+MuuuRuRRRRLLRLLLMMMM
+Mx@G;
+MXPQ
+MXPQQ
+N @;
+N Back
+n O+
+N Pj
+N PQ
+N Sh`
+N Shape
+N SQ
+N SS
+N Uj
+N UQj
+N Wj
+N WSh
+n&&,
+N<RPQS
+N<RPQW
+n>999
+n@Ej
+N@PR
+n@RPU
+n@SSS
+N\_^[
+N\HQ
+N\QW
+N\Wj
+n``N
+n`D.=
+N`IHQP
+n`T-B)
+n`WP
+n`WR
+Name :
+Nd^Y
+NdHj
+NdQh6O
+New Window7Arrange icons at the bottom of the window
+Next Pane5Switch back to the previous window pane
+NH@;
+NHfIf
+NHI;
+NHIQR
+NHPQ
+NhQh
+nL6j
+Nlhl
+nmcc:)___6||
+NNAD
+nnncQnQnn&7
+nnnn.
+nnnnGHbK`n7
+nnnnn
+nnnnn.
+nnnnnn.
+nnnnnnn
+nnnnnnn.
+nnnnnnnn
+nnnnnnnn.
+nnnnnnnnn
+nnnnnnnnnn
+nnnnnnnnnn.
+nnnnnnnnnnn.
+nnnnnnnnnnnn
+nnnnnnnnnnnn..........................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnn.........................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnn..........................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnn.........................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnn..........................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnn.........................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnn........................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnn..........................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnn.........................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnn.........................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnn..........................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnn.........................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnn........................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnn.
+nnnnnnnnnnnnnnnnnnnn.........................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnn.........................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnn.......................................nnnnnnnnnnnnnnnnnnnnnnnnnnn.
+nnnnnnnnnnnnnnnnnnnnnn..........................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnn.........................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnn.......................................nnnnnnnnnnnnnnnnnnnnnnnnnn.
+nnnnnnnnnnnnnnnnnnnnnnn.........................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnn..........................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnn.........................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnn.......................................nnnnnnnnnnnnnnnnnnnnnnn.
+nnnnnnnnnnnnnnnnnnnnnnnnn.........................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnn.......................................nnnnnnnnnnnnnnnnnnnnn.
+nnnnnnnnnnnnnnnnnnnnnnnnnn.......................................................................................
+nnnnnnnnnnnnnnnnnnnnnnnnnn.........................................................................................nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnn.......................................nnnnnnnnnnnnnnnnnnnn.
+nnnnnnnnnnnnnnnnnnnnnnnnnnn.....................................................................................
+nnnnnnnnnnnnnnnnnnnnnnnnnnnn.................................................................................
+nnnnnnnnnnnnnnnnnnnnnnnnnnnn..................................................................................
+nnnnnnnnnnnnnnnnnnnnnnnnnnnn......................................nnnnnnnnnnnnnnnnnn....
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnn..............................................................................
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnn......................................nnnnnnnnnnnnnnnn......
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnn............................................................................
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn........................................................................
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn..........................................................................
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn.....................................nnnnnnnnnnnnnn........
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn......................................................................
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn......................................nnnnnnnnnnnn..........
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn...................................................................
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn...........................................nn.....................
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn......................................nnnnnnnnnn............
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn........................................nnnnn...................
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn.......................................nnnnnn.................
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn.....................................nnnnnnnn...............
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnScH6F9
+nnY<b?$I
+NO_PRIORITY  
+None
+Not change
+NpQh<O
+nrrr
+nrrrl
+nrrrn
+nrrrr
+nrrrrp
+nrrrrr
+nrrrrrl
+nrrrrrr
+nrrrrrrl
+nrrrrrrp
+nrrrrrrr
+nrrrrrrrr
+nrrrrrrrrrlrrrrrrrr
+nrrrrrrrrrrl
+nrrrrrrrrrrrrrrrrrr
+nrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+NT@j
+NT@PR
+NT@RP
+NtE=
+NTJHRP
+NTOPW
+NTPj
+NtQh
+NTRP
+NtWSPQ
+NULL
+Number
+Number of  Codes : 
+Number of  Feeds : 
+Number of  Needle Points : 
+Number of  Stitches : 
+Number of data :
+Number of stitches : 
+nX_^]Y
+NXHPQ
+NXRPQ
+NXSRPQ
+nYcA@]
+N|Qh=O
+O Pj
+O RP
+O UUh
+O$$$$!!!!!!!!!>>>>>>>>>>><
+O$$$$$$$$$!!!!!!!!!!>>>>>
+O$&$$$$$$$$!!!!!!!!!>>>>!
+O&&&&&$$$$$$$$!!!!!!!!!!!
+O&&&&&&&$$$$$$$$$!!!!!!!!<888888
+O''&&&&&&$$$$$$$$!!!!!!!!
+O'''''&&&&&&$$$$$$$$!!!!$
+O(('''''&&&&&&$$$$$$$$$!$
+O((((''''&&&&&&$$$$$$$$$$;8888
+O(((((('''''&&&&&&$$$$$$&<M555566668888888
+O,IN
+o9l$
+o@RPU
+o@SP
+OAA***************}}}}}XX_
+OAAAA
+OBJECTS
+Offset
+Offset :
+Offset(Copy data to where you inputted.
+Offset...
+OffsetRect
+OGGw
+OH@;
+OHI;
+Ojjj
+Okay to continue?
+ole32.dll
+OLEPRO32.DLL
+OOO@@@
+OOO@@@444...
+OOOBBB666+,,#$$UUU
+Op&tion Setting...
+Open
+Open an existing document
+Open Outline
+Open PS-300B File
+Open this document
+Open this document(Switch to the next window pane
+OpenClipboard
+OpenPrinterA
+Option setting
+Option Setting
+Option settings
+Option1
+Option2
+Option2Set the output machine model
+Option3
+Orange
+Orientation
+Original Position
+Original Position :
+OriginalFilename
+Other
+Other Area
+Other...
+Outline
+Outline : 
+Outline Type
+Outlines are connected automatically.
+Overlap
+Overwrite current data
+OxQU
+P QVh
+P QWh
+P Sj
+p"""" 
+P&rint Setup...
+P(_^
+P(_^][
+P(QR
+P08CP<
+P0QRP
+P8_^][
+P>0a
+Page Setup3Change the printer and printing options
+Paper is jammed in the printer
+Paper Size
+Parameter
+Parameters
+Paste
+PatBlt
+Pattern
+Pattern...
+Pattern/Insert /Delete code(s) to/from sewing data
+PatternGeneraterCHS.dll
+PatternGeneraterENU.dll
+PatternGeneraterFRA.dll
+PatternGeneraterJPN.dll
+Pause OFF
+Pause ON
+PeekMessageA
+Percentage
+Pf=>
+pgggg`
+Ph1O
+Ph3O
+Ph4O
+Ph5O
+Pitch
+Pitch :
+Pitch : 
+Pivot
+Pivot2Make a mirror copy by a reference line
+Pj!h
+Pj!j
+Pj'Q
+Pj0Q
+Pj0R
+Pj`VS
+PjQh
+pnprrrrrrl
+Point
+Point!Divide outline or stitches
+Points
+PolyBezier
+Polygon
+POLYLINE
+Portrait
+Position
+PostMessageA
+PostQuitMessage
+PPh?
+PPP@@@
+PpPj
+pppp
+pPPPPP
+pppppp
+PpPSj
+PpPSS
+PPQj#
+PPRj#
+pPUU
+ppww
+ppwwww|
+PQhP
+PQPQj
+PQPQt
+PQPR
+PQPRW
+PQRh
+PQRj
+PQRQ
+PQRSS
+PQRUj
+PQRV
+PQRWj
+PQSj
+PQSR
+PQSRW
+PQSU
+PQSW
+PQUR
+PQUS
+PQUW
+PQVW
+PQWRS
+PQWS
+PQWSj
+PQWU
+Presser Foot Height
+Presser Foot Height(ISM)
+Presser Foot Height(ISM) : 
+Preview
+Previor Outline's End Point)Can not set the point which you selected..May I change the Scale into the optimum value?
+Previous Pane
+Print
+Print Pre&view
+Print Preview
+Print Setting
+Print Setup
+Print the active document
+PrintDlgA
+Printer
+PRINTER_ATTRIBUTE_DEFAULT 
+PRINTER_ATTRIBUTE_DIRECT  
+PRINTER_ATTRIBUTE_QUEUED  
+PRINTER_ATTRIBUTE_SHARED  
+PRINTER_INFO_1
+PRINTER_INFO_2
+PRINTER_STATUS_ERROR  
+PRINTER_STATUS_PAUSED 
+PRINTER_STATUS_PENDING_DELETION 
+PrivateBuild
+ProductName
+ProductVersion
+Progress
+Progress1
+PROM 128KB
+PROM 16KB
+PROM 1MB
+PROM 256KB
+PROM 2MB
+PROM 32KB
+PROM 512KB
+PROM 64KB
+PROM ALL Type
+Properties
+Property
+Property Window X
+Property Window Y
+PRQj
+prrl
+prrp
+prrr
+prrrr
+prrrrr
+prrrrrr
+prrrrrrrrn
+prrrrrrrrrrrr
+prrrrrrrrrrrrrrrrrrr
+prrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+PRW-1
+PRW-1 Baudrate
+PRW-1 Port
+PS-300BH
+PS300B
+PS300B Application
+PS300B Document
+PS300B Files (*.emb)
+PS300B MFC Application
+PS300B Version
+PS300B-088FA840-B10D-11D3-BC36-006067709674
+PS300B.Document
+PS300B.EXE
+PS300B;Please select a machine model which you want to output to .
+PS300B\
+PS300BCHS.chm
+PS300Bchs.dll
+PS300BENU.chm
+PS300Bfra.dll
+PS300BJPN.chm
+PS300Bjpn.dll
+PS300BMachineImportExportCHS.dll
+PS300BMachineImportExportENU.dll
+PS300BMachineImportExportFRA.dll
+PS300BMachineImportExportJPN.dll
+Pseudo 3D
+PShC
+PSQU
+PSSVQ
+pSUV
+PSUV
+PSUVW
+PSUVW3
+PSV3
+PSVW
+PSVWQ
+PSWQ
+PSWQR
+PSWRQ
+PtInRect
+PUh6
+Punch Point
+PUUP
+pUUUU
+PUVW
+PVQR
+pw_Ngug%
+PWQRV
+pwvfffff
+pwwpww
+pwww
+pwwwsw
+pwwww
+pwwwww
+pwwwwwwwgwwww
+pwwwwwwwgwwwwww
+pwwwwwwwgwwwwwww
+pwwwwwwwgwwwwwwx
+pwwwwwwww
+pwwwwwwywwwwwwwwwwrww
+pwwwwwz
+pwwwxxwwww
+pwwwz
+pwwx
+pww|
+pww|wwwwpwwwww
+pwxwwwwwww
+pwy|
+pw|www
+q@WP
+q\!#(
+qB999
+QDSU
+Qh+O
+Qj!UUj
+QPh"
+QPjsh
+QPQ3
+QPQP
+QPQR
+QPRP
+QPRPW
+QPRS
+QPVR
+QQQh
+QQQLLL
+qqqlllZZZOOO@@@
+QQSVW
+QRhP
+QRj<W
+QRPh
+QRPj
+QRPj<V
+QRPP
+QRPS
+QRPt
+QRPU
+QRPUS
+QRPUWS
+QRPUWSV
+QRPV
+QRPW
+QRPWV
+QRSP
+QRSPU
+QRSU
+QRSV
+QRUS
+QRVj
+QRVW
+QRWj
+QRWP
+QRWS
+QRWSj
+QRWV
+QShC
+qsort
+QSRP
+QSRWP
+QSUV
+QSUV3
+QSUVW3
+QSUW
+QSV3
+QSVW
+QUVW
+QVPhp
+QVPhP
+QVRP
+QWj!j@j@
+QWPR
+QWRP
+QWRPj@
+QWUS
+r """ 
+R(^[
+R(_][
+R(_^
+R+|$P
+Radius(mm)
+rand
+Read autosaved file.
+Read From Machine Media...
+Read From Machine Media:Output sewing data to machine media
+Read From ROM
+Read From ROM...
+Ready
+Recent File
+Rectangle
+Redo
+Reduce the window to an icon
+Reference
+Reference Point
+Reference Window
+Reference Window X
+Reference Window Y
+RegCloseKey
+RegConnectRegistryA
+RegCreateKeyExA
+RegDeleteKeyA
+RegDeleteValueA
+RegEnumKeyExA
+RegEnumValueA
+RegFlushKey
+RegGetKeySecurity
+RegLoadKeyA
+RegNotifyChangeKeyValue
+RegOpenKeyExA
+RegQueryInfoKeyA
+RegQueryValueExA
+RegReplaceKeyA
+RegRestoreKeyA
+RegSaveKeyA
+RegSetKeySecurity
+RegSetValueExA
+RegUnLoadKeyA
+Relative Coordinate
+Relative coordinate : 
+Relative Coordinate From the Previous Point
+ReleaseCapture
+ReleaseDC
+Repeat the last action
+Repeat1Replace specific text with different text
+Replace%Select the entire document
+Resize
+Resize by
+Resize$Rotate the selected object(s)
+Resize...
+rewind
+Rf=)
+Rf=2
+Rh,O
+Rh^Y
+rHNVP
+Right Down Coordinate of  Frame
+Right Width :
+Right(Out)
+Rj(P
+RLLLLLLMLMMM5555566668869
+RLLLLLLMMMM55555666686888
+RLLLLMMMMMM5M55565666886
+ROM File
+Rotate
+Rotate By Drag
+Rotate By Drag:Flip the selected object(s) horizontally
+Rotate By Point
+Rotate freely 
+Rotate Freely/Rotate by setting rotate center
+Rotate(Rotate 30 degrees by right direction
+RPhP
+RpPj
+RpPSj
+RpPSS
+RPQ3
+RPQh$
+RPQj
+RPQS
+RPQSW
+RPQU
+RPQUS
+RPQUWSV
+RPQV
+RPSj
+RPSQ
+RPSU
+RPSW
+RPUj
+RPUQS
+RPVW
+RPWj
+RPWQS
+RPWS
+rrrl
+rrrn
+rrrp
+rrrr
+rrrrl
+rrrrn
+rrrrp
+rrrrr
+rrrrrl
+rrrrrll
+rrrrrn
+rrrrrnrrrrr
+rrrrrr
+rrrrrr///////////////////////////////////////////////////////////////////////////////////
+rrrrrrl
+rrrrrrn
+rrrrrrp
+rrrrrrr
+rrrrrrrl
+rrrrrrrn
+rrrrrrrp
+rrrrrrrr
+rrrrrrrrl
+rrrrrrrrr
+RRRRRRRRR.81
+rrrrrrrrrl
+rrrrrrrrrp
+rrrrrrrrrr
+rrrrrrrrrrl
+rrrrrrrrrrp
+rrrrrrrrrrr
+rrrrrrrrrrrl
+rrrrrrrrrrrn
+rrrrrrrrrrrp
+rrrrrrrrrrrprrrr
+rrrrrrrrrrrr
+rrrrrrrrrrrrl
+rrrrrrrrrrrrn
+rrrrrrrrrrrrr
+rrrrrrrrrrrrrl
+rrrrrrrrrrrrrn
+rrrrrrrrrrrrrp
+rrrrrrrrrrrrrr
+rrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrllrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrp
+rrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrn
+rrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrr////////////////////////////////////////////////////////////////////////
+rrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrn
+rrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrr//////////////////////////////////////////////////////////////////
+rrrrrrrrrrrrrrrrrrrrrrrp
+rrrrrrrrrrrrrrrrrrrrrrrrl
+rrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrr///////////////////////////////////////////////////////////////
+rrrrrrrrrrrrrrrrrrrrrrrrrrl
+rrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrr//////////////////////////////////////////////////////////////
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrn
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr///////////////////////////////////////////////////////////
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr////////////
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr/////////////////////////////////////////////////////////
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr////////////////////////////////////////////////////////
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrp
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr///////
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrl
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrn
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr////
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr//
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr/
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr//
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrl
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrl
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrn
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrn
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrn
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+RRRRRuuuuuuuuuy
+RShC
+RSUj<W
+RSUPQ
+RSVWP
+RSWPQ
+RSWV
+Running
+RUSj<W
+RUWP
+RWUQP
+S&titches
+s@UP
+Save &As...
+Save As&Change the printing options
+Save auto recovery information every
+Save changes to
+Save the active document
+Save0Save the active document with a new name
+Scale
+Scale : 
+ScreenToClient
+SCRL
+Search
+Search By
+Search data from file
+Search Result :.Some of the small straight lines are ignored. 
+Search...
+SECRegistry
+SECTION
+Select
+Select &All
+Select All
+Select All 
+Select Data Type
+Select Import Layers
+Select Point
+Select Punch Point
+Select Punch Point'Select sewing data's point
+Select tool
+Select%Select punch point
+Selected Code List
+Selected point index : 
+SelectObject
+SendMessageA
+SEQEND
+Sequence
+Sequence No:
+Sequence Window
+Sequence Window X
+Sequence Window Y
+Sequence window.Generate all outlines to stitches
+Set bigger value.IThere is no sewing data, so you can not save this document as a DXF file.
+Set Frame 
+Set Start/End Point
+SetCapture
+SetCursor
+SetPixel
+SetPrinterA
+SetRect
+SetRectEmpty
+SetTimer
+Setting by User
+Settings
+SetWindowLongA
+Sewing Area
+Sewing Area :
+Sewing area : 
+Sewing Area Center
+Sewing Data
+Sewing Data List
+Sewing Start Point
+SHELL32.dll
+SHGetDesktopFolder
+SHGetFileInfoA
+SHGetMalloc
+SHGetPathFromIDListA
+SHGetSpecialFolderPathA
+Short Radius(mm)
+Show all codes
+Show Grid
+Show Punch Points of the Outline
+Show selected machine's codes
+Show Sewing Data of the Outline
+Show/Hide
+Show/Hide...
+Size
+Size : 
+Slide Pocket Clamp
+Slider
+Slider1
+Slow Draw
+Slow Draw&Measure two points' distance. 
+Slow Draw...
+Smooth
+Smooth Arc
+Smooth&Change smooth lines to sharp ones
+Snap Set
+Snap Setting
+Snap Setting(Set or check outline's property
+Snap to
+SnapSet Window X
+SnapSet Window Y
+Software\
+Some of the arcs  are ignored. An incorrect circle is ignored. 
+Sort by machine model name
+Source
+Space Setting
+SpecialBuild
+Specify pitch
+Speed
+Speed 0
+Speed 1
+Speed 2
+Speed 3
+Speed 4
+Speed 5
+Speed 6
+Speed 7
+Spline
+SPLINE
+Split
+Split Needle Low
+Split Needle Up
+SPQPRW
+sprintf
+SQPVW
+SQRP
+srand
+SShF
+SShG
+SShK
+SShN
+SSQR
+SSQRP
+SSSh
+Start Point :
+Start/End Point
+Static
+Status :
+Stit&ch
+Stitch
+Stitch Length
+Stitch Number
+Stitch Type
+Stitch Type : 
+Stitches :
+Stitches: 
+Stop Needle Lower Position
+Stop Needle Upper Position
+Straight Line
+Straightline
+strchr
+strcspn
+StringFileInfo
+SUf=
+SUhD
+SUQWR
+SUV3
+SUVj
+SUVW
+SUVW3
+SUVWh 
+SUVWj
+SUVWP
+SUVWt
+SUWj
+SVRQ
+SVW3
+SVWP
+Swap Entry/Exit Point
+Swap Start/End Point
+Swap Start/End Point6Align the selected objects to left side.
+SWPQ
+SWQP
+SWRP
+SWSSQSj
+SWVP
+SX0:1
+Symmetry
+SysListView32
+SysTabControl32
+SysTreeView32
+t!f=
+t"9\$ t
+t#VU
+T$ #
+T$ +
+T$ 3
+t$ ;
+T$ [
+T$ f
+T$ F
+T$ h
+T$ h'
+T$ h(
+T$ h)
+T$ h0
+T$ h|
+T$ I
+t$ j
+T$ j
+T$ P
+T$ PQ
+T$ PQh
+T$ PQR
+T$ PR
+t$ PVV
+T$ Q
+T$ Qh
+T$ QPR
+T$ QPRW
+T$ QR
+T$ R
+T$ RSh
+T$ SR
+T$ U
+t$ u
+T$ Uh
+t$ uL
+T$ V
+t$ V
+T$ VR
+t$ W
+T$ WR
+t$ WV
+T$ ~v
+T$"f
+T$$#
+t$$+
+T$$+
+T$$3
+T$$9P
+T$$;
+t$$;
+T$$;T$,u
+T$$;T$<u
+T$$@R
+t$$BI3
+T$$f
+t$$F
+T$$f9T$,
+T$$h
+t$$hD
+T$$j
+t$$j
+T$$j2R
+T$$jeR
+T$$P
+T$$Pj
+T$$PQ
+T$$PQh
+T$$PQR
+T$$PQRV
+T$$PR
+T$$PRW
+T$$Q
+T$$Qh
+T$$QhX
+T$$QR
+t$$QR+
+T$$QRSW
+T$$R
+T$$Rj
+T$$RP
+T$$RW
+T$$SR
+t$$t 
+T$$u
+T$$U
+T$$URh
+t$$V
+T$$VR
+T$$W
+t$$W
+T$$Wh
+t$$~
+T$$~n
+T$&3
+T$&f
+T$&P
+T$(#
+T$(+
+T$(3
+T$(9
+t$(;
+T$(;T$0u
+T$(;T$@t
+T$(f
+T$(h
+T$(I
+t$(j
+T$(j
+T$(P
+T$(PQ
+T$(PQR
+T$(PR
+T$(PRQU
+T$(PRV
+T$(PUQ
+T$(Q
+T$(QPR
+T$(QR
+T$(QRPS
+T$(QRSU
+t$(QVSW
+T$(R
+T$(Rj
+T$(RP
+T$(RPj
+T$(S
+T$(SR
+T$(t
+T$(U
+t$(u
+t$(uG
+T$(UR
+t$(W
+T$(WR
+T$*f
+T$,#
+T$,+
+T$,3
+t$,9s
+T$,;
+t$,;
+T$,d
+T$,f
+T$,h
+T$,If
+t$,j
+T$,j
+t$,j.
+T$,P
+T$,PQR
+T$,PQRV
+T$,PR
+T$,Q
+T$,QPR
+T$,QR
+T$,QRP
+T$,QRPj
+T$,R
+T$,RP
+T$,RPQSW
+T$,S
+T$,SR
+T$,t
+t$,t
+t$,u
+T$,u
+T$,u.
+T$,UR
+T$,URS
+T$,uT
+T$,V
+t$,V
+T$,VR
+t$,W
+T$,WR
+T$.f
+T$0#
+T$0+
+t$03
+t$09t$8}
+t$0;
+T$0B
+t$0f
+T$0f
+T$0G
+t$0j
+T$0j
+T$0P
+T$0PQR
+T$0PQRj
+T$0PUQR
+t$0Q
+T$0Q
+T$0QPR
+T$0QR
+T$0QRPj
+T$0R
+T$0Rj
+T$0RP
+T$0SR
+t$0V
+t$0W
+T$0WR
+T$2f
+T$4#
+t$4#
+T$4+
+T$43
+T$49L$8~
+t$4;
+T$4;
+t$4@
+t$4B
+T$4f
+T$4h
+t$4j
+T$4j
+T$4P
+T$4PQR
+T$4PQSR
+T$4PR
+t$4Q
+T$4Q
+T$4QPR
+T$4QR
+T$4QRj
+T$4QRP
+T$4R
+T$4Rh
+T$4Rj
+T$4RP
+T$4SR
+T$4u
+T$4UR
+t$4V
+T$4VR
+t$4W
+T$4WR
+T$4~x
+T$6f
+T$8#
+T$8+
+t$8+
+t$83
+T$83
+T$8;
+t$8f
+T$8f
+T$8F
+t$8j
+T$8j
+T$8P
+T$8PQ
+T$8PQR
+T$8PQRVW
+T$8PQSRU
+T$8PR
+T$8Q
+T$8QR
+T$8QRPj
+T$8QURS
+T$8R
+T$8RP
+T$8Sh
+T$8SR
+t$8u
+t$8V
+T$8VR
+t$8W
+T$8WR
+T$8WVR
+t$:3
+T$:f
+t$<#
+T$<#
+T$<+
+T$<3
+T$<9L$@}
+t$<;
+T$<f
+T$<j
+T$<P
+T$<PQR
+T$<PQRj
+T$<PR
+T$<Q
+T$<QPR
+T$<QR
+T$<QRWV
+T$<R
+T$<Rj
+T$<RP
+T$<RVSW
+T$<SR
+t$<t
+T$<u
+t$<u
+T$<VR
+T$<W
+T$<~[
+T$<~^
+T$@#
+T$@+
+t$@3
+T$@;
+T$@A
+T$@f
+T$@F
+T$@h
+T$@j
+T$@jZP
+T$@P
+t$@P
+T$@PQ
+T$@PQR
+T$@PR
+T$@Q
+T$@QPR
+T$@QR
+T$@QRV
+T$@R
+T$@Rj
+T$@RPQ
+T$@tk
+T$@u
+T$@UR
+t$@UV
+T$@UWR
+T$@VR
+T$@WSPQUR
+t$\#
+T$\#
+T$\+
+T$\f
+T$\h
+T$\j
+T$\P
+T$\PQ
+T$\PQR
+T$\PRSQ
+T$\QPR
+T$\QR
+T$\R
+t$\t#
+t$\u
+t$\V
+T$^3
+T$^f
+T$`#
+T$`+
+t$`3
+T$`@
+t$`_
+T$`f
+T$`j
+T$`P
+T$`PQ
+T$`PQR
+T$`PR
+T$`QR
+T$`R
+T$`SR
+T$bf
+T$Bf
+T$d#
+T$D#
+T$d+
+T$D+
+t$d3
+T$D3
+T$d3
+T$D;
+T$dE
+T$Df
+T$df
+T$dh
+T$dj
+T$Dj
+t$dj
+T$DP
+T$DPQR
+T$dPR
+T$DPR
+T$DQ
+T$dQ
+T$dQPR
+T$dQR
+T$DQR
+T$DQRh
+T$DR
+T$dR
+T$DRj
+T$DRP
+T$dRP
+T$DRQP
+T$dRSS
+T$DSR
+T$dSR
+T$Du
+t$du
+T$DUR
+t$DV
+T$DV
+T$DVR
+T$dVR
+t$DW
+t$dW
+T$DW
+T$DWR
+t$DWV
+t$f=
+T$ff
+t$H#
+T$H#
+T$h#
+T$H+
+T$h3
+t$H3
+t$h;
+T$H@RP
+T$hf
+T$Hf
+T$HG;z
+t$hH
+T$hIQR
+T$hj
+t$Hj
+T$Hj
+T$HP
+T$hP
+T$HPQR
+T$HPR
+T$hPRU
+T$HQ
+T$hQ
+T$HQPR
+T$hQR
+T$HQR
+T$hR
+T$HR
+T$hS
+T$HSUV
+T$Ht
+t$Ht
+T$HU
+T$Hu
+T$HUP
+T$hUR
+T$hUSP
+t$HV
+T$HVSUQR
+t$HW
+T$hWR
+T$H|
+T$h|
+T$jf
+T$Jf
+T$L#
+T$l#
+t$L;
+T$Lf
+T$lf
+t$Lf9uB
+T$lh
+t$Lj
+T$lj
+T$Lj
+T$lP
+T$LP
+T$LPQR
+T$lPQR
+T$LPQRS
+T$lPR
+T$LPR
+T$LPRQW
+T$lQ
+T$LQ
+T$LQPR
+T$lQR
+T$LQR
+T$LQRP
+T$LR
+T$lR
+T$LRP
+T$lRP
+T$LRWS
+T$lS
+T$lSR
+t$Lt
+T$lU
+t$lu/
+T$lu0
+T$LUSP
+t$LV
+T$LVR
+T$lVR
+t$lW
+T$lWR
+T$LWR
+T$nf
+T$Nf
+T$P#
+T$p#
+T$P+
+t$p3
+t$P9wH
+t$P;
+T$P;
+T$P@RP
+T$pf
+t$Pf
+T$Pf
+T$Ph
+T$PI;
+T$Pj
+T$pj
+T$pO
+T$PP
+T$pP
+T$PPQ
+T$PPRV
+T$PQ
+T$pQ
+T$pQPR
+T$pQR
+T$PQR
+T$pR
+T$PR
+T$pRQP
+t$pu
+T$pVR
+T$PVR
+T$PW
+T$PWR
+T$pWR
+t$Rf
+T$Rf
+T$rf
+T$T#
+T$t#
+T$t+
+t$T+
+T$T+
+t$t3
+T$t3
+T$Tf
+T$tf
+T$Tf;T$ 
+t$th
+T$Tj
+T$tj
+T$tP
+T$TP
+T$tPQR
+T$TPR
+T$TPRV
+T$tQ
+T$TQPR
+T$tQR
+T$TQR
+T$tR
+T$TR
+T$TRj
+T$TRP
+T$tRSPQ
+T$tUR
+T$TUSQR
+T$TVR
+t$TW
+t$TWj
+T$Vf
+T$vf
+t$VS
+T$X#
+T$x#
+T$x+
+t$x;
+T$xf
+T$Xf
+t$xf
+T$Xh
+T$xh 
+T$Xj
+T$xj
+T$XP
+T$xP
+T$XPQR
+T$xPR
+T$XPR
+T$xQ
+T$XQ
+T$xQPRP
+T$XQR
+T$xQR
+T$XR
+T$xR
+T$XS3
+T$Xu
+T$XU
+T$xUR
+t$XV
+T$XVQR
+t$XW
+t$xW
+T$XWR
+T$xWR
+T$Zf
+T$zf
+T$|#
+T$|+
+t$|;|$t}
+T$|f
+T$|QP
+T$|QPQR
+T$|QR
+T$|R
+T$|VR
+T$~f
+t%h\
+t%h_
+t%h`
+t%ha
+t%hL
+t%hM
+t(9\$
+t)hO
+t*9\$ u
+t*f=
+t*VW
+t+VW
+t,9o
+t,9|$0t&
+t,It
+t/SW
+t0hl
+T40F
+T40P
+T58888888
+T5RuuuuR5T~$>>>>>>>>>
+t69x
+t7WV
+t89\$
+t8SU
+t;It!
+t<h^
+t<hL
+t<hP
+t<Ht 
+t=f=
+t>Ht!H
+t@hM
+t[9\$
+t\SW
+Tab1
+TABLE
+TABLES
+Tack
+Tack Method
+tbUh
+tC9H
+tCf=
+tCQPj
+tD9w
+tDDDD
+tF999
+tF<#t
+The addfeed is ignored. 
+The block data are ignored. (The attribute of block data is ignored. ,The block which refer to outside is ignored.
+The block data is ignored.
+The current point : 
+The ellipse arc is ignored. 
+The ellipse arcs are ignored. 
+The file does not exist
+The file's version is wrong.
+The First Reference Point
+The mulutiline is ignored. 
+The polyline data is ignored.
+The printer door is open.!The printer is in an error state.
+The printer is busy.
+The printer is initializing..The printer is in an active input/output state&The printer is in a manual feed state.
+The printer is low on toner.@The printer has an error that requires the user to do something.
+The printer is offline."The printer has run out of memory.!The printer's output bin is full.*The printer cannot print the current page.
+The printer is out of paper. The printer has a paper problem.
+The printer is out of toner.*The printer is not available for printing.
+The printer is paused.$The printer is deleting a print job.
+The printer is printing.&The printer is processing a print job.
+The printer is ready.
+The printer is waiting.
+The printer is warming up."The printer is in power save mode.
+The printer status is unknown.
+The run data is ignored.
+The runarc data is ignored.
+The sewing data of this outline have been edited,
+The spline is ignored. $The polyline with width is ignored. $There is no data which can be read. %Can not save the pattern's paremeter. The charecter array is ignored. 
+There are some data in current design. Click any of the button below to read the data.
+There is an outline which have multiple shapes. It will be seperated to single shapes. 
+tHHt#Huq
+This file is read-only. You must save to a different filename.
+This is an incorrect file. 
+This is an incorrect file. ?There are some data didn't saved. Can I delete all of the data?
+This is an incorrect file.*The outline which is too small is deleted.
+Thread Release
+Thread Release Off
+Thread Release On
+Thread Tension
+tHU3
+Thumbnails
+tiHt
+Tile Windows(Split the active window into panes
+Tile Windows5Arrange windows as non-overlapping tiles
+time
+Times New Roman
+tkSW
+tL9l$@tF9
+tm-'
+tNhL
+tNU3
+tNWj
+To open the second file, close the first one or change either of the file name.
+Toggle StatusBar
+Toggle ToolBar,Show or hide the status bar
+Top Left Coordinate of  Frame
+Total : bIf you change the input type, the data you have inputted will be cleared, do you want to continue?>Image Files (*.bmp *.jpg)|*.bmp;*.jpg|DXF Files (*.dxf)|*.dxf|0EMB Files (*.emb)|*.emb|DXF Files (*.dxf)|*.dxf|
+tp<#tl<
+tq9u
+tQhL
+tr9_
+Trace
+Trace punching
+Trace Set
+Trace"Make template pattern data
+TrackPopupMenu
+TranslateMessage
+Translation
+Tree1
+Trigger
+Trigger :
+Trigger Off
+Trigger On
+Trim
+TRRLLLLMMMMM5M55566668888
+TRUE
+TSU3
+TSUV
+TSUVW
+tSVW
+TSVW
+TUVW
+Two Step Tension
+twws
+twwws
+twwwwwwxwwww
+txHt;H
+txHt<H
+tY9]
+Type :
+Type Unmatch
+U PQ
+U Qj
+u!9x
+u!CE
+u!j0
+u%h-
+u%j@
+u'j?V
+u(h'
+u(h(
+u(h)
+u(h*
+u(Sh
+u*f=
+u*hD
+u*PPh?
+u+j(
+u+j0
+U,_^][
+u-9D$
+u-UVW
+u/j0
+u09T$
+u0VU
+u1;P
+u1USPQ
+u1VS
+u4Ph
+U6668888888
+u79~(u
+u8hl
+U9wH~P
+u;9~H~6
+u<9_
+u<9o
+u<9~
+u<f;
+u<Uh.
+u=9o
+u=9~
+u?9k
+u\jd
+u^9^H
+u`h8
+u`h9
+U`VQR
+UD][
+udhi
+UDPQR
+uDu'
+UHJ;
+UHQRVW
+UHQRWS
+uI9L$@
+Uj2j
+uJ9n
+uJWS
+ulh 
+ULuuuuuRRRuR5T>>>
+UMLLMMMM555556666688888888
+uN9\$
+Undo
+Undo the last action
+Undo&Redo the previously undone action
+UnionRect
+Unknown
+uoh 
+up9L$,~
+UpdateWindow
+Upper Left
+UPQj
+UPQSV
+UPRQ
+uqjH
+UQPVRSW
+UQRSV
+urhH
+URPSV
+URQP
+URRRRLRLLLLLMMMM555556658
+URuuuuuRRRRRRRL;!>>>>
+UR}M
+USER32.dll
+USh6
+USQR
+USVW
+UTxyTU
+uU;|$
+UUh7
+UUQR
+UUQRSW
+UURPSW
+UUU"""
+UUU""""""
+UUU""""""UUU
+UUU999k
+UUU______999999999999999
+uuubbbWWWMMMCCC   CCCuuueeeWWWMMMCCC   
+uuueee
+UUUf
+UUUh
+UUUIII===999
+UUUj
+uuuMMM   
+UUUOOO
+UuuRuRRRRLLLLLLMMMMM5M8
+UUUU
+UUUUh
+UuuuuRRRRRLRLLLLMLMMM5
+UUUUUU
+uuuuuu666
+UUUUUU______
+UUUUUU______999999
+UUUUUU______999999___
+UUUUUU______UUU
+UUUUUUUUU
+UUUUUUUUUUUU"""""""""""""""
+UUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+uVhh
+UVSW
+UVW3
+UVWh 
+UVWS
+uW9D$TuQ
+UWPQ
+UWRP
+UWSP
+UWVR
+UXSQ
+V Back
+V Pj
+V Qj
+V QPh3
+V Shape
+V Wjdj
+V$<<
+V5uuuuuuRRuR6z!>>>>>>>
+V>!>>>>>>>>>>
+V>>>>>>>>>
+V@QR
+V\_^[
+V\RQ
+V`J;
+ValidateRect
+Value overflowed. 
+VarFileInfo
+Version 
+version num
+VERTEX
+Vertex Angle :
+Vertical
+Vertical Spacing:
+Vh;Vd}
+VhRh:O
+Vjlj
+VlRh
+VLRRRLLLLLMMMMMM555566666:
+VLRRRLLLLLMMMMMM555566666:<
+VLuuuuRuRRRRRLR5
+VMuuuRRRRRRRRwk
+VMuuuuRuRRRRRS>!!>>>>>>>>>
+vn;D$
+Volatile Environment
+VPj#
+VQj#
+VQPj
+VQRPU
+VQUR
+VRj#
+vRLLLLLLMLMMM555556666888
+VRQP
+VRuuuRRRRRRLLRLLLLMM
+VRuuuRuRRRRRLLRSk
+VRuuuuuRRRRRRLRLL
+VRWS
+VS_VERSION_INFO
+VSPQ
+VtRh;O
+VTxxy{[
+vuRRRRRRLLLLLLMMMMM5My
+vuRuRRRRRRLLLLLMLMMMM:>
+VuuRRRRRRLRLLLLLLML5V
+VUUU
+vuuuuuRRRRLRLLLLLMMM
+vuuuuuRRRRRRLRLLL5
+VVhF
+VVhK
+VVPj#
+VVQj#
+VVRj#
+vvv999
+VVVh
+VWf9k
+VWf;
+VWj&
+VWPQ
+VWPQSU
+VWRP
+VWSP
+VWSPQR
+VWSQ
+VWSRPQ
+VXHPR
+VxQP
+VxRh
+V{zz{V
+W 999
+W Qj
+w7t.=
+W9^t
+W9F8u
+W9n8u
+w?t3
+wctZ=
+wGws
+wGwws
+wGwwwq
+wgwwwwx
+Wh&ole
+Where :
+White
+Wi&dth
+WideCharToMultiByte
+Width :
+Windows is registered trademark of Microsoft Corporation
+WINSPOOL
+WINSPOOL.DRV
+wJ999999999999999999999999999
+wNNgg
+WPh4
+WPh6
+WPhN
+wppp
+wpwpwy
+wpwww
+wpwwwpw
+wpwwww
+wpwwwwwwpww|www|wwwwwwwwwwww
+wpwwwwwww
+wpwwwwwwwwwww
+wpwwwwwwy
+wpwwwww|
+wpwwwwywwww|
+wpwwwz
+wpwwy
+WQPh
+WQRP
+WQRSS
+wqwwwww
+Write data to ROM
+Write To Machine Media Read data from ROM
+Write To Machine Media...
+Write To ROM(Display design's information
+Write To ROM...
+WRQj
+ws?3333
+WSPQ
+WSPQVR
+wsprintfA
+WSRP
+wss3
+WSUP
+wtk=
+WUQR
+WUS@VQPh0
+wuuuRRRRRRLLLLLLMLT
+wuuuRuRRRRRLLLLLLL:!>>>>
+WVPQ
+WVQR
+WVRPSQ
+WVRQPS
+WVS3
+WVuI
+WVUS
+ww30
+wwGwGwwwwwwx
+wwgwwww
+WWhF
+wwppwwwx
+wwpwwwwww
+wwpwwwwwwy
+wwpwx
+WWQRSU
+wws{
+wwttwwwwwwwx
+www(
+www0www
+www999999999999999999999www
+www999999999___
+www\\\OOO999
+www___MMM
+www___MMMwww___MMM
+WWWCCC   
+WWWeee666666   
+wwwf
+wwwgwww
+wwwGwwwwwwwp
+WWWh
+wwwlll
+wwwlll^^^
+wwwlll^^^PPP
+wwwMMM999999999999999MMMMMMwww
+wwwMMM999999999999UUUUUU999999
+wwwMMM999999MMMMMMwwwwww
+wwwMMM999999UUU
+wwwMMM999UUU
+wwwMMM999UUUUUU999999999999999UUU
+wwwMMMMMMwwwwww
+wwwp
+wwwppp
+wwwpppwww
+wwwpwsww
+wwwpws{
+wwwpww
+wwwpwwww
+wwwpwwwwww
+wwwpwwwz
+wwww
+WWWW
+wwww3
+wwwwgwwx
+wwwwgwwxx
+wwwwp
+wwwwpw
+wwwwpww
+wwwwpwww
+wwwwpwwwp
+wwwwpwwww
+wwwwpwwwww
+wwwwq
+wwwww
+wwwwwp
+wwwwws
+wwwwww
+WWWWWW
+wwwwww;
+wwwwwwp
+wwwwwwqqqlllZZZOOO
+wwwwwws
+WWWWWWW
+wwwwwww
+wwwwwww""ww
+wwwwwww;
+WWWWWWWp
+wwwwwwwp
+wwwwwwwpww
+wwwwwwwpwwwwwwwww
+wwwwwwwr"ww
+wwwwwwws
+wwwwwwww
+WWWWWWWW
+wwwwwwwwgwwwwwwwww
+wwwwwwwwp
+wwwwwwwww
+wwwwwwwwwp
+wwwwwwwwwpwwwwwp
+wwwwwwwwwpwwwwww
+wwwwwwwwwpwwwwwww
+wwwwwwwwwpwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww|
+wwwwwwwwww
+wwwwwwwwwwp
+wwwwwwwwwww
+wwwwwwwwwwwGGGGGGGw
+wwwwwwwwwwwp
+wwwwwwwwwwww
+wwwwwwwwwwwwp
+wwwwwwwwwwwww
+wwwwwwwwwwwwww
+wwwwwwwwwwwwwww
+wwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwww999
+wwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww___
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwp
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwp
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwyyyyywwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwx
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwxwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwy
+wwwwwwwwwwwwwwwwwwwwwwwwwwx
+wwwwwwwwwwwwwwwwwwwyywwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwx
+wwwwwwwwwwwwwwwww|
+wwwwwwwwwwwwwx
+wwwwwwwwwwwww|
+wwwwwwwwwwwwy
+wwwwwwwwwwwwywwwwwwwwwwwwpww|
+wwwwwwwwwwww|
+wwwwwwwwwwwx
+wwwwwwwwwwx
+wwwwwwwwwwy
+wwwwwwwwwwyy
+wwwwwwwww|
+wwwwwwww|
+wwwwwwww|wwww
+wwwwwwww|wwwwwwww|wwww
+wwwwwwww||
+wwwwwwwx
+wwwwwww|wwww
+wwwwwwx
+wwwwwwxwwws33333
+wwwwwwywwwwwwwwwwww
+wwwwww|
+wwwwww|ww
+wwwwww|www
+wwwwww|wwww
+wwwwww|ww|wx
+wwwwww|w|wx
+wwwwwx
+wwwwwxw
+wwwwwy
+wwwwwywwwx
+wwwwwzzgwwwww
+wwwww|
+wwwww|w
+wwwww|ww|ww|w|
+wwwww|w|wwwwww
+wwwwx
+wwwwxpxpwwwww
+wwwwxww
+wwwwxwwww
+wwwwxwwwwwwww
+wwwwxwwwwwwwwwwwwwwww
+wwwwxwwwwwww|
+wwwwy
+wwwwyw
+wwwwz
+wwww|
+wwww|w
+wwww|ww
+wwww|wwww
+wwww|www|wwww
+wwww|ww|wwwww
+wwww|ww|ww|w|
+wwww|w|ww|wwww|www
+wwwx
+wwwxpw
+wwwxw
+wwwxww
+wwwxwwwww
+wwwxwwwwwpw
+wwwy
+wwwywww
+www{
+www|
+www|wpw
+www|wpwwwww
+www|ww
+www|www
+www|wwww
+www|wwwwww
+www|wwwwwwww|wwww
+www|wwww|
+www|www|
+www|www|wwwwww
+www|wx
+www|x
+wwxpwwwwww
+wwxwpwwwwww
+wwxww
+wwxwww
+wwxwwwww
+wwxwwwwwww
+wwxxwwww
+wwyw
+wwywww
+ww|w
+ww|ww
+ww|www
+ww|wwww
+ww|wwwwwwwwwwwwwwwwwwwww
+ww|www|
+ww|ww|wwx
+ww|w|
+ww|w|wwwwwpwwwwwwpwwww
+ww|w|ww|w
+ww|w|ww|w|www
+ww|w|ww||wwwwwww
+ww||
+WxRU
+wxwp
+wxww
+wxwww
+wxwwwwww
+wxwwwwwww
+wxwwwwxw
+wxwwwwzwwwgwwwx
+wxwyyyyywww
+wyww
+wywx
+wyywwwwxwwwww
+wyyyyywwww
+w|wwpwwwwwwpw
+w|www
+w|wwwww
+w|wwwwww
+w|wwwwwwwwp
+w|wwwwwwwwwwwgwww
+w|wwwwwwww|wwww
+w|wwwww|www|wwww
+w|wwww|wwww
+w|wwxwwww
+w|ww|
+w|w|
+w||||||wwwwwwwwww
+w||||||wwwwwwwwwwwwwwww
+w||||||||w
+X : 
+X f3
+X!999
+X(mm)
+X/rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+X999
+X=%.3f, 
+x@t>
+xHOWQ
+xM5666668888888
+XPVSS
+xSUV
+XSUV
+xSUV3
+XSUVW
+XSUVW3
+XSVW
+XTuB
+xuRuRRRRRRLLLLLMMMML9k
+xuuRRuRRRLRLLLLLMMML6
+xwf wwwp
+xwHw
+xwww
+xwwwp
+xwwww
+xwwwwwp
+xwwwwwww
+xwwx
+xwyww
+XXX/rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+xxxxx
+XXXXX
+XXXXXX_
+XXXXXXX
+XXXXXXXX
+XXXXXXXXX
+XXXXXXXXX_
+XXXXXXXXXX
+XXXXXXXXXX/rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+XXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX_
+XXXXXXXXXXXXrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+XXXXXXXXXXXXX
+XXXXXXXXXXXXXX
+XXXXXXXXXXXXXX1
+XXXXXXXXXXXXXX_
+XXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX/rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+XXXXXXXXXXXXXXXX1
+XXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX/rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+XXXXXXXXXXXXXXXXXX1
+XXXXXXXXXXXXXXXXXX_
+XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX////////////////////rrrrrrrrrrrrrrrrrrrrrrrrr
+XXXXXXXXXXXXXXXXXXX_
+XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX_
+XXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+XXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXX_
+XXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXX_
+XXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXX/rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+XXXXXXXXXXXXXXXXXXXXXXXXX/rrrrrrrrrrrrrrr//////////////////////////////////////////////////////////////////////////
+XXXXXXXXXXXXXXXXXXXXXXXXXXX/rrrrrrrrrrrr////////////////////////////////////////////////////////////////////////////
+XXXXXXXXXXXXXXXXXXXXXXXXXXXrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX/rrrrrrrrrr//////////////////////////////////////////////////////////////////////////////
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/rrrrrrrr////////////////////////////////////////////////////////////////////////////////
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/rrrr////////////////////////////////////////////////////////////////////////////////////
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/r///////////////////////////////////////////////////////////////////////////////////////XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/////////////////////////////////////////////////////////////////////////////////////////
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/////////////////////////////////////////////////////////////////////////////////////////XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX//////////////////////////////////////////////////////////////////////////////////////rrr
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX///////////////////////////////////////////////////////////////////////////////////rrrrr/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXX}_
+XXXXXXXXXXXXXXXXXXXXXX}
+XXXXXXXXXXXXXXXXXXXXXX}_
+XXXXXXXXXXXXXXXXXXXXX}}}_
+XXXXXXXXXXXXXXXXXXXXX}}}}_
+XXXXXXXXXXXXXXXXXXXX}}}}*_
+XXXXXXXXXXXXXXXXXXX}}}}}}
+XXXXXXXXXXXXXXXXX}}}}****
+XXXXXXXXXXXXXXX}}}}}*****_
+XXXXXXXXXXXXXX}}}}}}****
+XXXXXXXXXXXXXX}}}}}}}****
+XXXXXXXXXXXXX}}}}}*******
+XXXXXXXXXXXX}}}}}}******
+XXXXXXXXXXX}}}}}}********
+XXXXXXXXXX}}}}}**********
+XXXXXXXX}}}}}}***********
+XXXXXXX}}}}**************
+XXXXXXX}}}}}}***********
+XXXXXX}}}}}**************
+XXXXXX}}}}}}*************
+XXXX}}}}}}***************
+XX}}}}}}*****************
+Y : 
+Y f;X t
+Y$999
+Y(f;X(t
+Y(mm)
+Y.f;X.t
+Y0f;X0t
+Y2f;X2t
+Y4f;X4t
+Y6f;X6t
+Y8f;X8t
+Y:f;X:t
+Y=%.3f, 
+y@sAU
+Y@UVWtE
+Y@VW
+Yellow
+yLMMMM5M555666688888888
+yLuuuuuRR8{
+yLuuuuuuR5T~!!!!>>>>>>>>>>
+yuRRRRLLLRLLMMMMMM555556
+yuRRRRRRLLLLLLMMMMM5555
+yuuuuRRRRRRRLLLLLLL9
+ywwp
+ywwwxwwwww
+yw|ww|
+Zigzag Pitch :
+Zigzag Point :
+Zigzag Shape :
+zim0
+Zoom
+Zoom : 
+Zoom In
+Zoom in
+Zoom In$View sequence window
+Zoom Out
+Zoom out
+zRuRRRLRLLLLMLMMMM555556
+zt?h{
+zuRRRRRRLRLLLLMMMMM5555
+zuuRRRRRRLLLLLLMMMMM5M
+zuuuuRRRRRRRLLLLLLL
+zuuuuuuRuRRRRRL;>
+ZZZOOO@@@444
+{888
+{MM55666668888888
+{Rich
+{TVR
+{uRRRRRLLLLLLMMMM55556668
+{uuuuuuRRRRRRLLLL
+{wg_Np
+{ywwwTU
+{{{333___
+|$ 9|$$t
+|$ ;
+|$ f
+|$ j
+|$ S
+|$ t
+|$ W
+|$"QRP
+|$$3
+|$$9|$4t
+|$$P
+|$$PVWSUQR
+|$$u
+|$$u?
+|$$~
+|$(+
+|$(9|$,t
+|$(;
+|$(f
+|$(j
+|$(u
+|$(W
+|$,+
+|$,9|$0t
+|$,;
+|$,f
+|$,H
+|$,j
+|$,P
+|$,W
+|$03
+|$09|$8t
+|$0;
+|$0j
+|$0P
+|$0Q
+|$0W
+|$0~@
+|$4#
+|$4)
+|$4+
+|$43
+|$49|$(t
+|$4;
+|$4PW
+|$4W
+|$89|$<t
+|$8;
+|$8;\$<~
+|$8tT
+|$8W
+|$<9|$@t
+|$<j
+|$@+
+|$@9|$Dt
+|$@f
+|$@j
+|$@W
+|$\3
+|$\PQR
+|$\W
+|$`3
+|$`j
+|$`u
+|$D#
+|$D+
+|$D3
+|$d3
+|$D9|$Lt
+|$d;
+|$D;
+|$Df
+|$dj
+|$Dj
+|$DQP
+|$DSUV
+|$h+
+|$H;
+|$HW
+|$hWV
+|$h~
+|$L#
+|$l3
+|$L3
+|$L9|$Pt
+|$LW
+|$P9
+|$P9|$Tt
+|$pt
+|$PUUPQSW
+|$PW
+|$T3
+|$t3
+|$T9|$Xt
+|$tH;
+|$tj
+|$TW
+|$X3
+|$X;
+|$x;t$|}
+|$xf
+|$xj
+|$Xj
+|$XPWj
+|$xVWU
+|$XW
+|$|3
+|$|;
+|$|f
+|-=B
+|/,t
+|8;t$
+|f=(
+|SVW3
+|tg=,
+|ti=
+|wwww
+|wwwww
+|wwy
+|ww|
+|ww|wwww
+|w|wpwwww
+|xwwx
+|xwwyww
+|yw|
+||x|
+}$*88C0*$
+}%=@
+}&G;
+}*****************AAAAAAA
+}8h<
+}DVW
+}jjPCFPF
+}TVW
+}}****************AAAAA
+}}XXXXXXXXXXXXXXXXX1
+}}}*****************AAAAA
+}}}*****************AAAAA[5RLRLLLLLLMMMMM555556665z
+}}}XXXXXXXXXXXXXXXXXXXXXX_
+~!!!!!!!!!!>>>>>>>>>>
+~!!!!!!!!>>>>>>>>>>
+~!!!!>>>>>>>>>>
+~!$!!!!!!!!!>>>>>>>>>
+~!>>>>>>>>>>
+~$$$$!!!!!!!!!!>>>>>>>>>><9
+~$$$$$$$!!!!!!!!!!>>>>>>>
+~$&$$$$$$$$!!!!!!!!!!!>>!
+~&SU
+~''&&&&&&$$$$$$$$$!!!!!!!
+~0_^][
+~6M5555566668888888
+~@PQ
+~`Wh
+~ASU
+~DRP
+~dRPh
+~dWh
+~LRRLRLLLLMLMMMMM5555555x
+~LuRRLRLLLLLMLMMMM555558~
+~LuuuRRRRRLRLLLLRw
+~LuuuRuRRRRRRLLLR6>>>>>>>>
+~RuuRRRRRRRRLLLLLMMMM5
+~WHS
+~X_d
+~XAf

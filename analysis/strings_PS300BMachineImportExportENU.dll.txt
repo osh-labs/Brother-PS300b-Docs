@@ -1,0 +1,2760 @@
+         
+                                                                                                                                                                                             
+   +   
+   :   
+   =   
+  data added !
+  data overwritted !jThere are some stitches which is less than the minimum stitch.
+ %.3f  x  %.3f  (inch)
+ 0*0K0P0Z0
+ 0,0m0
+ SUVW
+ SVW
+ t&f
+ t]=
+ txf
+ tY=
+ u'f
+ wR3
+!This program cannot be run in DOS mode.
+"0?0
+"hl2
+"PRW-1.IN" file open error.AThis software don't support the machine model which you selected..Machine model mismatch. Can not copy rom data.#This file has already been existed.
+#0`0m0
+$0S0
+$2y6=9
+$SUV
+$SUVW
+%.1f
+%.1f  x  %.1f  (mm)
+%.1f X %.1f
+%.2f
+%0.1f
+%02d
+%02X
+%03d
+%04lX
+%s%s
+%Stitch over! Can not export this data
+%WWh
+%Y/%m/%d  %H:%M:%S
+'0:1W1
+(%.1f - %.1f)mm
+(%d - %d)
+(%d,%d)
+(%ld,%ld)
+(f9T$
+(SUV
+)          
+)            
+)VVh
+)}"Q
+)}=Q
+*.BIN
+*ttQ
++_^]f3
++D$\
++L$$
+,100;
+,40;
+,80;
+,BIN,0,0FFFF
+,BIN,0,0FFFFF
+,BIN,0,1FFFF
+,BIN,0,3FFFF
+,BIN,0,7FFFF
+,SUV
+,SVW
+-----
+----------
+-0:0Q0y0
+.?AVtype_info@@
+.all
+.bas
+.bin
+.BIN
+.HEX
+.MOT
+.PAVCException@@
+.PAVCFileException@@
+.prm
+.PRM
+.ROM
+.rsrc
+.sew
+.SEW
+.text
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+0 0&0,02080>0D0J0P0V0\0b0h0n0t0z0
+0 191
+0#1h162S3
+0$0,040<0D0L0T0\0d0l0t0|0
+0$0,040<0D0P0l0t0
+0$0,080T0\0d0l0t0|0
+0$000L0T0\0d0l0t0|0
+0$0<0T0l0
+0$2e2
+0%1*11181?1F1M1T1[1b1i1
+0)0b0
+0,040<0H0d0l0x0
+0,1?1R1e1
+0.0C0d0#1w1|1
+00272y4
+00FFFF
+01FFFF
+01y1h5
+021I1
+031<1
+03FFFF
+040<0D0L0X0t0|0
+041104B0
+07FFFF
+080h0
+081K1
+0]0j0
+0c0}0
+0FFFFF
+0g0~0
+0I0O0X0]0n0t0
+0L2]2n2
+0P1T1X1\1K3
+0Q0k0
+0R?uB
+0S0{0
+0SSf
+0SUVW
+0SVW
+0T0X0\0`0d0
+0t2A3T3
+0wq3
+1 1$1(1,1014181<1@1D1H1L1P1X1\1t1
+1 1<1D1L1T1\1d1l1t1|1
+1!2=2w2
+1"1(1.141:1@1F1L1R1X1^1d1j1p1v1|1
+1#1^1f1
+1#4j4x4
+1$1,141<1D1L1T1\1d1l1t1|1
+1$1,141<1D1L1X1t1|1
+1$101L1X1t1
+1(1D1P1l1t1|1
+1(2?3
+1+3f3
+1, 0, 0, 1
+1,1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+1-1t1
+1/3Q324
+102x2#3E3
+111K1
+132K2c2{2{3
+1@1D1H1L1P1T1X1\1c1
+1^1e1
+1A2Y2
+1c2!3
+1D2a2
+1l2p2t2x2|2
+1t-f
+1This data exceeds frame area ! Can not export it.6The file version is mismatched.Can not read this file.GThese are feed data between stitch and stitch,can not export this data.?The first time cut Y coodinate error. Can not export this data.
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+2 2B2
+2$2*20262<2B2H2N2T2Z2`2f2l2r2x2~2
+2$2,242<2D2L2T2\2d2l2t2
+2$2,242<2D2L2T2\2d2l2t2|2
+2$2,242<2D2L2T2\2d2l2x2
+2$2,242<2D2L2T2`2|2
+2$2,242<2D2L2X2t2|2
+2$2,282T2\2d2l2t2|2
+2,3=3N3f3
+20s1
+213A3
+292Y2y2
+293a3
+293k3
+2;2R2v2
+2F2c2
+2F2Q4a4y4
+2P3h3
+2r4<5a5
+2t&=
+2~;j
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+3 3&3,32383>3D3J3P3V3\3b3h3n3t3z3
+3 3'3-33393?3v3
+3 343<3D3L3T3\3d3l3t3|3
+3 4<4P4}4
+3 6$6(6,6#?
+3#4i5
+3$3,343<3D3L3T3\3d3l3t3|3
+3$3,343<3D3L3T3\3d3p3
+3)393I3A4S4
+3*3A3Q3
+3,343<3D3L3T3\3d3l3t3|3
+3,343<3D3L3T3\3d3l3x3
+3.5 2DD
+3.5 2HD
+3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+30^0
+334P4
+34383<3@3D3
+3999
+3A5`5
+3c5 8
+3I3\3b4y4
+3I4x4
+3N4a4;5w6
+3R4b4t4
+3uOj
+3x436
+4 4$4
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+4 4M4
+4"4(4.444:4@4F4L4R4X4^4d4j4p4v4|4
+4"4.4=4I4U4a4p4|4
+4#585E5Q5
+4#5?5Y5s5S6
+4#5D5R5u5
+4$4,444<4D4L4T4\4d4l4t4|4
+4$4,444<4D4L4T4\4d4l4x4
+4$4,444<4D4L4T4`4|4
+4$4,444<4D4L4X4t4|4
+4$4,444<4H4d4l4t4|4
+4%434V4h4
+4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+4(5B5^8
+4(5Q5q5
+4)4|4#5
+4/4S4v4
+434J4a4x4
+435s5
+486s6S7
+4<5A5W5o5
+4=5c5O7`7q7
+4F5s5
+4L5+6S6o6
+4S5Z5
+4s8%9
+4t5O6
+4W5s7
+4y516
+4z:?;$<+<
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+5 5$5(5,505t5x5|5
+5!52585C5T5Z5
+5"6,6
+5$5*50565<5B5H5N5T5Z5`5f5l5r5x5~5
+5$5,545<5D5L5T5\5d5l5t5|5
+5$5,545<5D5L5X5t5|5
+5$505L5T5\5d5l5t5|5
+5+5:5F5R5Y5p5
+5,545<5D5L5T5\5d5l5t5|5
+5,585T5\5d5l5t5
+5/697d7
+545<5D5L5T5\5d5l5t5|5
+545P5T5X5\5`5d5h5l5p5t5x5|5
+5:5J5V5b5r5
+5>5,6
+5f9T$
+5I5{5
+5Y6^6p6
+5Z6l6
+6 6$6(6,6064686<6
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+6 6<6D6L6T6\6d6l6t6|6
+6!6)6@6M6a6{;
+6"6+6
+6$6,646<6D6L6T6\6d6l6t6|6
+6$6,646<6D6L6T6\6h6
+6$6,646@6\6d6l6x6
+6$6,686T6\6d6l6t6|6
+6%606
+6%626:6X6e6m6
+6%686s6
+6'747A7
+6'7L7
+6(6D6L6T6\6d6l6t6|6
+6(6D6L6T6`6|6
+6(7{7
+6*777
+6/797
+637i7
+637o7
+646L6d6
+647!8@8
+697~7
+6<6C6
+6@6$9
+6_7d7
+6B6q6
+6C7[7}7
+6C7q8
+6D6^6i6
+6D7I7`7w7
+6H6[6n6
+6I7y7
+6L6b6
+6N7b7
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+7 7$7(7,7074787<7H7L7d7|7
+7#:V;m;
+7$7,747<7D7L7T7\7d7l7t7|7
+7$7,747<7D7L7T7`7|7
+7$7,747<7D7P7l7x7
+7$757
+7%8D8o9
+7*8S9
+7+8C8Z8
+7,747<7D7L7T7`7|7
+7,8084888<8@8D8H8V8g8r8
+7/7q7
+718I8
+737a7k8
+737M7g7
+747L7d7|7
+767$8
+769=9
+797d7y7
+7@8D8H8L8P8T8X8t>
+7\8S;<<
+7f8t8
+7G7m7
+7K7X7`7v7
+7Q8c8
+7t+=(
+7y80979|9S:
+8 8$8(8
+8 8&8H8Z8
+8 8}8
+8"9Y9
+8$8,848<8D8L8T8\8d8l8t8|8
+8$8,848<8D8P8l8t8|8
+8$8,888T8\8d8l8t8|8
+8$808L8T8\8d8l8x8
+8$8<8T8l8
+8%9,9u9
+8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+8)8c8
+8)9I9i9s:
+8*8t8
+8+8C8
+8,8?8u8
+8-9C9y9
+8-9v9
+8/8F8]8t8
+80Q0_=n=
+848<8D8L8T8\8d8l8t8|8
+848@8\8d8p8
+858]8d8~8
+858f8
+8;9y9
+8@8w8
+8C8}8
+8csm
+8D$StyPj
+8D$Zt:Pj
+8I8_8
+8i8|8
+8I9_9z9
+8p8s9
+8S96<
+8SU3
+8SUV
+8SUVW
+8SVW
+8SVW3
+8These is no data to be imported. Please check the media.
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+9 9$9(9,90949H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+9#:]:
+9$9,949<9D9L9T9\9d9l9t9
+9$9,949<9D9L9T9\9d9l9t9|9
+9$9,949<9D9L9T9`9|9
+9$9,989T9\9d9p9
+9%9s9q:
+9'9/9M9Z9b9
+9(9D9L9T9\9d9l9t9|9
+9):W:
+9,9D9\9x9|9
+9,9W9^9y9
+9/:T:
+90:V:
+939G9g9
+979>9Y9
+979I9
+97:Y:
+98:E:O:[:
+999999999
+999999999999
+999999999999999999
+999999999999999999999999999999999999999
+999999999999999999999999999999999999999999999999
+999999999999999999999999999999999999999999999999999999999999999999999999
+999k
+9\$X
+9]Lt[
+9^$u|f
+9_0uCj(
+9`9o9z9
+9B:J:
+9D$0
+9F:x:
+9l$l}
+9o9>:s:
+9Q:d:
+9s0uIj(
+9wduUj 
+9|$htF
+: :$:(:,:0:4:8:<:@:D:H:L:P:8;?;
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+: :(:@:T:d:h:x:
+: :<:H:d:l:t:|:
+:!:;:U:
+:#;P<
+:$:,:4:<:D:L:T:\:d:l:t:|:
+:$:,:4:<:H:d:p:
+:$:,:8:T:\:d:l:t:
+:$:0:L:X:t:
+:$:::G:O:
+:$;0;n;E<u<
+:%;^;
+:':f:
+:+:R:
+:,:4:@:\:d:l:t:|:
+:/;w<
+:3:V:l:
+:3<O<q<
+:4<t<
+:::h:
+:=:[:
+:i:v:
+:I;X<\<`<d<
+:r;6<]<
+:s;3<
+:t*=
+:T;p;
+:W;y;
+;#=z=
+;$;,;4;<;D;L;T;\;d;l;t;
+;$;,;4;<;D;L;T;\;d;l;t;|;
+;$;,;4;<;D;L;T;`;|;
+;$;,;4;<;D;P;l;t;|;
+;$;,;4;<;H;d;l;x;
+;';5;
+;'<j<
+;(;D;P;l;x;
+;)<a<
+;)<h<w<
+;*;=;N;T;i;o;
+;+={=
+;,<]<
+;0>6>I>W>]>t>
+;1;M;M<
+;4;P;T;l;
+;5<H<N<
+;8<<<@<D<H<L=
+;9;Y;
+;9;};
+;:;g;
+;=<Y<{<F=g=
+;@;D;\;t;
+;D$ 
+;D$(
+;D$,
+;D$8
+;D$t
+;L$(
+;L$(|
+;L$(~
+;L$,
+;L$4
+;l$p}
+;T$(|
+;T$,
+;T$0
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+< <$<s<
+< <3<
+< <<<D<L<X<t<|<
+< <<<H<d<l<t<|<
+< ul
+<!<<<
+<#=?=
+<$<,<4<<<D<L<T<\<d<l<t<|<
+<$<,<4<<<H<d<l<t<|<
+<(<D<L<T<`<|<
+<)<?<v<
+<+=2=9=P=W=^=
+<3=a=s=
+<4<<<D<L<T<\<d<l<t<|<
+<4<@<\<d<l<t<|<
+<4<L<d<|<
+<6=y?
+<;<L<R<a<r<x<
+<A<Y<y<
+<A=a=y=
+<C<_<v<
+<C<e<b=
+<I=P=
+<Pu*
+<S=p=C>
+<SUV
+<w=X>g>
+<y='>
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+=!=)=G=T=\=z=
+=$=,=4=<=D=L=T=\=d=l=t=
+=$=,=4=<=D=L=T=\=d=l=t=|=
+=$=,=4=<=D=L=T=\=d=l=x=
+=$=,=4=<=H=d=l=x=
+=$>G>#?
+=&=Y>
+=&>->G>
+=)=\=y=
+=)=J=X=p=
+=+=c=
+=,=D=\=t=
+=/=q=
+=1=E=[=p=
+=3>K>c>!?6?c?
+=4=<=D=L=X=t=|=
+=6>Y>y>
+=9=Y=
+=<=a=
+=<>I>Q>g>t>|>
+=>>K>U>a>
+=@>D>H>L>P>T>X>\>`>d>
+=`>:?Y?w?
+=G>Z>m>
+=J>Z>
+=s=7>[>p>{>
+=T>X>\>`>d>
+> >$>(>,>0>C>
+> >$>(>,>@>h>l>
+> ><>D>L>T>\>d>l>t>|>
+> ><>H>d>l>t>|>
+>$>,>4><>D>L>T>\>d>l>t>|>
+>$>,>4>@>\>d>l>t>
+>$>I>d>
+>%>7>I>
+>%?,?|?
+>&?:?}?
+>*>y> ?M?r?
+>+>u>
+>,>8>T>\>d>p>
+>-?Q?Y?
+>3?M?X?
+>4><>D>L>T>`>|>
+>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+>9>^>
+><>r?x?~?
+>@?X?q?
+>@?~?
+>H>g>
+>h?l?p?t?x?|?
+>J>Z?
+>t.=
+>U?t?
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+? ?<?D?P?l?x?
+?$?,?4?<?D?L?T?\?d?l?t?|?
+?$?,?4?<?D?L?X?t?|?
+?$?,?4?<?D?P?l?t?|?
+?$?,?4?<?D?P?l?x?
+?&?J?_?q?
+?)?I?i?
+?+?a?
+?4?@?\?h?
+??1type_info@@UAE@XZ
+????
+?@?D?\?t?
+?B?T?r?
+?terminate@@YAXXZ
+@.data
+@.reloc
+@SU3
+@SUVW
+@SVW
+@uaf
+[_^]Y
+[_f3
+[uzf
+\$ ]
+\$ f
+\$ j
+\$ UVf
+\$$;
+\$$f
+\$$UV
+\$$UVW
+\$$V
+\$$}
+\$%f
+\$&f
+\$(3
+\$(@
+\$(Uj
+\$,f
+\$,Wf
+\$0t
+\$2f
+\$4f
+\$4PtJ
+\$4t
+\$4u}
+\$8%
+\$8;
+\$8f
+\$8R
+\$8u>
+\$8uK
+\$<u1
+\$@f
+\$`f
+\$`UV
+\$`V
+\$dj
+\$DQ
+\$hUV
+\$hV
+\$HV
+\$l;
+\$tUV
+\$x;
+\$XV
+\*.*
+\bas0
+\BAS0
+\ISMS0
+\PS-300B
+\SUVW
+][_3
+][_^
+^1M3
+^]@[
+^]@[Y
+^][d
+^]f3
+_@f9_ f
+_][d
+_]^[
+_^%7
+_^[]
+_^[d
+_^[Y
+_^]2
+_^]3
+_^][
+_^][d
+_^][Y
+_^]d
+_^]f
+_^]f3
+_^]Y
+_^f3
+__CxxFrameHandler
+_adjust_fdiv
+_CIasin
+_except_handler3
+_ftol
+_hypot
+_IN.txt
+_initterm
+_ismbcdigit
+_itoa
+_mbscmp
+_mbsinc
+_mbslen
+_OUT.txt
+_spawnl
+_splitpath
+_stricmp
+_swab
+`.rdata
+`QhD
+`SUV
+a0|0
+Add Data
+ADVAPI32.dll
+Alf;
+ALL file data error.
+ALL file open error.
+ALL file read error.
+ALL file seek error.
+ALL file write error.
+all2b430.tmp
+all2b856.tmp
+ALLD
+ALLF
+ALLU
+ALLX
+and there is a file with the same file name has already existed, 
+APPDATA
+AThe file which you have selected have been converted to BIN file.
+atof
+atoi
+AUTO
+b4302all.tmp
+B430EMK2
+B800E
+B800E.CUT
+B800E_Setting.txt
+B856E
+B856E_Setting.txt
+BAS file data error.
+BAS file open error.
+BAS file read error.
+BAS file seek error.
+BAS file write error.
+BAS0
+bas0*.sew
+Baudrate error.
+BE438B
+BE438C
+BLANK
+Blank check error.
+Browse
+BRPj
+BUZZER
+C:\Temp
+C:\Temp\
+C<UV
+Can not read ROM file.
+Can not save to PROM.
+Cancel
+Cannot read data.
+Cannot write data.
+Change type error.2Maxmium pitch over error.Can not export this data.
+Check Sum
+Close
+CloseClipboard
+CloseHandle
+CMMMMMMMMMMMJ
+Com port error.YROM type error or there is no ROM chip in the ROM writer .Set right size ROM chip please.
+COMCTL32.dll
+Command error.
+Comment
+COMMENT
+Comment :
+COMMENTD
+COMMENTF
+COMMENTU
+COMMENTX
+CompanyName
+Completed !JPlease insert the ROM clip containing data to be copied in the ROM writer.HPlease insert the ROM clip that does not contain data in the ROM writer.
+COMPORT
+COMPORT = %d , %ld
+Condensed Stitch Pitch : 
+CopyFileA
+CopyRect
+Copyright (C) 2004
+CoTaskMemFree
+CreateCompatibleBitmap
+CreateCompatibleDC
+CreateDCA
+CreateDirectoryA
+CreateFileA
+CreatePen
+CreateRectRgnIndirect
+Cutter Size : 
+c~4jc
+D$  
+D$ "
+D$ $
+D$ %
+D$ &
+D$ ,
+D$ 3
+D$ ;
+D$ ^;
+D$ _
+D$ F;
+D$ f= 
+D$ G;
+d$ h
+D$ h
+D$ h80
+D$ hT1
+D$ hX:
+D$ j
+D$ j@P
+D$ jBP
+D$ P
+d$ P
+D$ Pj
+D$ PQ
+D$ QRVP
+D$ R
+d$ R
+D$ Rh
+D$ Rh80
+D$ RP
+D$ RPQ
+D$ RPV
+D$ SP
+D$ SS
+D$ UP
+D$ VP
+D$ W
+D$ W3
+D$ WP
+D$ WQ
+d$ WSP
+d$ WSR
+D$"%
+D$#j
+D$$ 
+D$$+
+D$$3
+D$$8
+D$$9D$4
+D$$;
+D$$f
+D$$F;
+D$$H
+D$$h
+d$$h
+D$$j
+D$$P
+d$$P
+D$$Pf
+D$$PQ
+D$$PQW
+D$$QR
+D$$R
+d$$R
+d$$Rf
+D$$Rh80
+D$$RP
+D$$RPQ
+d$$S
+D$$SP
+D$$V
+D$$VP
+d$$W
+D$$WP
+D$$WPV
+D$%k
+D$%RP
+D$&R
+D$&RP
+D$'3
+D$(%
+D$(+
+D$(,
+d$(h
+D$(H
+D$(j
+D$(P
+d$(P
+D$(PQ
+D$(Q
+D$(QRP
+D$(R
+d$(R
+D$(RP
+D$(RPQ
+d$(S
+D$(SP
+D$(SUV
+D$(UPh
+d$(V
+D$(VP
+D$(VS
+d$(W
+D$(W
+D$(WP
+D$(WPQ
+D$(x
+D$*f
+D$,+
+D$,3
+D$,;
+D$,f
+d$,h
+D$,H
+D$,j
+d$,P
+D$,P
+D$,PQ
+D$,Q
+D$,R
+d$,R
+D$,RP
+D$,RPQ
+D$,Sh
+D$,SP
+D$,tB
+D$,u
+d$,U
+D$,UP
+d$,USP
+D$,UV3
+d$,V
+D$,VP
+D$,VPQ
+d$,W
+D$,WP
+D$,|
+D$.f
+D$0+
+D$0+T$h
+D$03
+D$0;
+D$0\Q
+D$0f
+D$0F;
+d$0h
+D$0h
+D$0h80
+D$0j
+D$0L
+D$0P
+D$0p
+d$0P
+D$0Pf
+D$0PQj
+D$0PW
+d$0QUP
+d$0R
+D$0R
+D$0RP
+d$0S
+D$0SS
+d$0U
+d$0USP
+d$0USQ
+D$0V
+D$0WR
+D$0|
+D$2R
+D$3RP
+D$4 
+D$4+
+D$43
+D$4_^]
+D$4f
+D$4h
+D$4h 1
+D$4j
+d$4P
+D$4PQ
+D$4PQPR
+D$4PSV
+D$4PtK
+d$4PUR
+D$4PV
+D$4Q
+D$4QRP
+D$4R
+d$4R
+D$4RP
+D$4SP
+D$4SS
+D$4SUW
+D$4SV
+D$4UP
+D$4WP
+d$4WPQ
+D$6f
+D$8 
+D$8+
+D$8+L$h
+D$83
+D$8;
+D$8@
+D$8_^;
+D$8f
+D$8H
+D$8h|5
+D$8j
+D$8L
+d$8P
+D$8Ph
+D$8PV
+D$8Q
+D$8QRP
+d$8R
+D$8R
+D$8RP
+D$8RPQ
+D$8RPW
+D$8RWP
+D$8W
+D$8WQRPV
+D$:f
+D$;PQ
+D$<+
+D$<3
+D$<f
+D$<j
+D$<jBP
+d$<P
+D$<P
+D$<P3
+D$<Q
+D$<QRP
+d$<R
+D$<RP
+D$<RPQ
+D$<RPWU
+D$<RUP
+D$<SP
+D$<t
+D$<u.
+D$<VP
+D$<WP
+D$<y
+D$>f
+D$@+
+D$@B
+D$@f
+D$@j
+d$@P
+D$@P
+D$@Q
+D$@Qf
+d$@R
+D$@R
+D$@RP
+D$@RPV
+D$@RUP
+D$@RWP
+D$@SP
+D$@sr
+D$@VP
+d$@W
+D$\%
+D$\3
+D$\9\$`u
+D$\C;
+D$\F;
+d$\P
+d$\R
+D$\RP
+D$\sV
+D$\W
+D$\WP
+D$]<0t"<4t
+D$^f
+D$`*A
+D$`j
+D$`P
+d$`P
+D$`Q
+d$`R
+d$`U
+D$`UP
+D$`VP
+D$`VWf
+D$D+
+D$D3
+D$d3
+D$D;
+D$d?
+D$D_;
+D$Df
+D$df
+D$dG;
+D$Dh
+D$dJ
+d$dP
+d$DP
+D$DP
+D$dP
+D$DPQ
+D$dQ
+D$DQ
+D$DQPRP
+D$DQRP
+D$dQSWRP
+D$DR
+d$DR
+d$dR
+D$DRP
+D$dRP
+D$DRPQS
+D$dRPV
+d$dS
+D$dSS
+D$dSU
+d$DU
+D$DUP
+D$DW
+D$d|
+D$Ff
+D$H+
+D$h+
+D$H3
+D$H9
+D$H;
+D$Hf;
+D$Hh
+D$Hj
+D$hj
+D$HP
+D$hP
+d$hP
+d$HP
+D$hQ
+D$HQPR
+D$HQR
+D$HQWRP
+d$HR
+D$HR
+d$hR
+D$HRP
+d$HS
+d$hS
+D$hSS
+D$HUP
+d$HV
+D$HWP
+D$if
+D$iV
+D$Jf
+D$JR
+D$l 
+D$l!
+D$L+
+D$L9
+D$l@
+D$lf
+D$Lh
+d$Lh,1
+D$LH;
+d$LhL1
+D$lj
+D$LL
+d$lP
+d$LP
+D$lP
+D$LPQ
+D$lQ
+d$LR
+D$LR
+d$lR
+D$LRP
+D$LSS
+d$LU
+D$LUP
+D$LVP
+d$LW
+D$NP
+D$p 
+D$p!
+D$p"
+D$p"QQ
+D$p#
+D$p$
+D$p%
+D$p'
+D$p*
+D$p+
+D$P+
+D$p-
+D$P.
+D$p3
+D$P;
+D$Pf
+D$pF;
+D$ph
+D$Ph
+d$Ph,1
+D$phL1
+D$pj
+D$PP
+D$pP
+d$PP
+D$pQ
+D$PQ
+D$PQP
+D$PQR
+D$pQRP
+d$pR
+d$PR
+D$PR
+D$pR
+D$pRP
+D$pRPW
+d$PS
+d$PSPR
+D$Psr
+d$PU
+d$PV
+D$PVP
+D$PWP
+D$P|
+D$p|
+D$P}
+D$R<0u
+D$SP
+D$t"
+D$t$
+D$t&
+D$t(
+D$t)
+D$t,
+D$t/
+D$T3
+D$t;8~
+D$T_;
+D$TE;
+D$th
+D$TH
+D$thL1
+D$tj
+D$Tj P
+D$tjBP
+d$TP
+D$tP
+D$tQ
+d$TR
+d$TS
+d$TSPR
+D$TsV
+D$tSVWf
+D$TSVWf
+d$TU
+D$TUP
+d$TV
+d$TW
+D$TWPQ
+d$TWPR
+D$T|
+D$x 
+D$x!
+D$x+
+D$x.
+D$X3
+D$X;
+D$XB
+D$XC;
+D$Xe
+D$XE;
+D$Xf
+D$Xg
+D$XG;
+D$Xh
+D$Xi
+D$Xj
+D$Xk
+D$Xl
+D$XL
+d$XP
+d$xP
+D$xQ
+D$XQ
+D$xQRP
+d$XR
+D$XRP
+d$XS
+D$Xt
+d$XV
+d$xV
+D$XWP
+D$X|
+D$Y<0u
+D$|!
+D$|"
+D$|#
+D$|$
+D$|%
+D$|'
+D$|*
+D$|+
+D$|-
+D$|f
+D$|h
+D$|P
+d$|P
+D$|PWP
+D$|Q
+d$|R
+D$|RP
+D$|RPW
+D$|uH
+Data
+Data error.
+Default
+DELETE
+DELETED
+DELETEF
+DeleteFileA
+DELETEU
+DELETEX
+DispatchMessageA
+DISPLAY
+Display all model's ROM file
+Do you want to cancel exportting this data?
+do you want to overwrite it?$Please select a machine model first.2Do you sure you want to delete the selected data ?
+doq.PM
+doq.ti
+doq/da
+doq1.0
+doq</d
+doq<ke
+doq>
+doqat.
+doqcke
+doqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoq
+doqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoq
+doqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqdoqt</
+doqet.
+doqint
+doqite
+doqkey
+doqle 
+doqnte
+doqPMH
+doqPMO
+doqPMS
+doqrma
+doqstr
+doqtic
+drawdata.tmp
+drawdata.txt
+DrawTextA
+DSU3
+dSUVW
+DSUVW
+Duplicate ROM
+dUVW
+dVhD
+d~;j
+E,SVW
+Edit Comment
+EMK2
+EnableWindow
+End Back Tack Width : 
+End Code:
+End CodeSFile open error. The file does not exist or access forbidden or there is no media. #Can not find the file "SW1Win.exe".-Can not use the FD300 unit. Please check it. OMachine model mismatch, can not export to the ROM file which you have selected.)Do you really want to overwrite the data?!Please input a new ROM file name.NFile write error. There is not enough space in the media or there is no media.
+endcode.txt
+EqualRect
+EscapeCommFunction
+etAHt7Ht-
+Export
+F h 8
+F h S
+f999
+f9\$PUVW
+f9D$
+f9D$(u3
+f9G t
+f9O0u
+f9T$
+f;D$8t
+f;D$lu'
+F<33KA
+F<RP
+F`Ph
+F`Ph0
+F`PhC
+fclose
+FD300 control error.
+FD300 internal error.
+FD300 is not connected.
+FEED (
+ff33
+fflush
+fgets
+File
+File "PRW-1.OUT" open error.
+File "PRW-1.OUT" read error.
+File name error! 
+File open error.
+File read error.
+File write error.
+FileDescription
+FileVersion
+FillRect
+First cut position error.
+FlQf
+FMMMMMMMMMMMMJ
+FMMMMMMMMMMMMMJ
+FMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMY
+FMMMMMMMMMMMMMY
+FMMMMMMMMMMMMW
+Folder Name :
+Folder Name:
+fopen
+fprintf
+fread
+free
+FromAll.txt
+fseek
+ftell
+FThis data exceeds frame area ! Do you really want to export this data?
+FtWj
+fwrite
+FxPh
+G VVh
+g0m0w0
+G4PU
+Gd_^f
+GDI32.dll
+GDRAW_COLOR
+GDRAW_END
+GDRAW_LINE     
+GDRAW_LINE2     
+GDRAW_MOVE     
+GDRAW_START
+GetClientRect
+GetClipboardData
+GetCommState
+GetComputerNameA
+GetCurrentDirectoryA
+GetCursor
+GetDC
+GetKeyState
+GetLastError
+GetLocaleInfoA
+GetModuleFileNameA
+GetObjectA
+GetSysColor
+GetTickCount
+GetWindowLongA
+gfff
+GlobalLock
+GlobalUnlock
+HE800A
+HEIGHT
+HKEY_CLASSES_ROOT
+HKEY_CURRENT_USER
+HKEY_LOCAL_MACHINE
+HKEY_USERS
+HMMMMMMMMMMF
+HMMMMMMMMMMJ
+HMMMMMMMMMMMMMMF
+HMMMMMMMMMMMMMMJ
+HMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMP
+HMMMMMMMMMMMMMMMMMMMMMMMMMMMP
+HMMMMMMMMMMMP
+HSUV
+HSUVW
+Ht(HuS
+i[uh
+ImageList_AddMasked
+IMM32.dll
+ImmAssociateContext
+Import
+ImportExportMainENU
+Incorrect model.
+Incorrect program number.
+Incorrect work directory./Insufficient memory. This operation is stopped.
+Input
+Input file failure.
+Input New ROM File Name
+InternalName
+InvalidateRect
+isalnum
+IsClipboardFormatAvailable
+isdigit
+ISM Data By PS-300B
+ISMS0
+ISMS0*.SEW
+j1Sh6
+j1Uh6
+j1Wh6
+j2j2
+j;v;
+j@h8
+jjjj
+jjjjj
+KE430B
+KE430C
+KE431B
+KE431C
+KE432B
+KE432C
+KE433B
+KE433C
+KE434B
+KE434C
+KE484C
+KERNEL32.dll
+Keyword error.
+KHFPMMMMMMPFHY
+KJJJJJJJJJJ
+KPMMMMMMMMMMMMMW
+KPPPPPPPPPPPJ
+KpWP
+Kt:=
+L$ +
+L$ 3
+L$ ;
+L$ @;
+L$ ^3
+L$ _^][d
+L$ _^]d
+L$ _^d
+L$ d
+L$ f
+L$ f;J v
+L$ f;J v*
+L$ h
+L$ h80
+L$ hh:
+L$ j
+L$ P
+L$ Ph
+L$ PQ
+L$ PQQ
+L$ PQW
+L$ Q
+L$ QP
+L$ QRU
+L$ QUVSP
+L$ QV
+L$ R
+L$ RP
+L$ RQP
+L$ Sh
+L$ SQ
+L$ SSQ
+L$ U
+L$ u
+L$ UVW
+l$ V
+l$ Vf
+L$ VQ
+L$ VR
+l$ VW
+L$ WQ
+L$ WQP
+L$"3
+L$#j
+L$$+
+L$$^
+L$$^[d
+L$$A
+L$$d
+L$$f
+L$$h
+L$$j
+L$$P
+L$$PQ
+L$$PQQ
+L$$PQR
+L$$Q
+L$$R
+L$$RP
+L$$SSQ
+L$$t!
+L$$u
+L$$ub
+l$$V
+l$$Vf
+L$$WQ
+L$&j
+L$(+
+l$(3
+L$(_][^d
+L$(_^
+L$(_^][d
+L$(_^]d
+L$(_d
+L$(d
+L$(f
+L$(f=
+L$(j
+L$(P
+L$(PQ
+L$(PQQ
+L$(PQR
+L$(Q
+L$(R
+L$(RPQ
+L$(RQ
+L$(RQP
+L$(SQ
+L$(u
+L$(u`
+L$(VQ
+L$(VWVWPQP
+L$*j
+L$,+
+L$,3
+L$,;
+L$,_
+L$,_^3
+L$,_^]d
+L$,f
+L$,j
+L$,P
+L$,PQ
+L$,PQQ
+L$,Q
+L$,Qf
+L$,R
+L$,RPQ
+L$,RQP
+L$,RUVWP
+L$,SV
+l$,t
+l$,U
+L$,VQ
+L$0+
+L$0;
+L$0^[d
+L$0_^][d
+L$0_^]d
+L$0f
+L$0h
+L$0hT1
+L$0j
+L$0jVR
+L$0N+
+L$0P
+L$0Ph
+L$0PQ
+L$0PV
+L$0Q
+L$0QSV
+L$0R
+L$0RP
+L$0SS
+L$0SSQ
+l$0Vf
+l$0Vj
+L$0VPSQ
+L$2f
+L$43
+L$4[d
+L$4_
+L$4_^][d
+L$4d
+L$4f
+L$4h
+L$4P
+L$4PQ
+L$4Q
+L$4QR
+L$4QV
+L$4R
+L$4RPQP
+L$4RQP
+L$4RUf
+L$4RWSPQV
+l$4t
+L$4u
+L$4UQ
+L$4VQ
+L$6f
+L$8#
+L$8+
+L$8;
+L$8_^]d
+L$8_^f3
+L$8d
+L$8f
+L$8h
+L$8h4:
+l$8j
+L$8j
+L$8P
+L$8PQ
+L$8PQf
+L$8PQQ
+L$8Q
+L$8QP
+L$8R
+L$8RQP
+L$8SQ
+L$8UQ
+L$8VQ
+L$8VQSU
+L$8WQ
+L$<3
+L$<^d
+L$<_^][d
+L$<_^d
+L$<_^f
+L$<d
+L$<f
+l$<f
+L$<h
+L$<j
+l$<j
+L$<P
+l$<P3
+L$<PQ
+L$<PQQ
+L$<Q
+L$<QP
+L$<Qu$
+L$<R
+L$<Rf
+L$<RQP
+L$<SQ
+L$<t
+L$<VQ
+L$<WQ
+L$>f
+L$@^d
+L$@_
+L$@_^]d
+L$@d
+L$@f
+L$@hH:
+L$@j
+l$@j
+L$@P
+L$@PQ
+L$@PQQ
+L$@PQUf
+L$@Q
+L$@R
+L$@RWSPQV
+L$@SQ
+L$@V
+L$@W
+L$@WQ
+L$@}
+L$\<
+L$\@;
+L$\^d
+L$\_^]d
+L$\PQ
+L$\PQU
+L$\PQUf
+L$\t
+L$`+
+L$`9
+L$`_^[d
+L$`_^][d
+L$`_^]d
+L$`_^d
+L$`_d
+L$`d
+L$`f
+L$`f3
+L$`j
+L$`P
+L$`PVQ
+L$`Q
+L$`R
+L$`Rf
+l$`V
+L$`VQ
+L$bf
+L$Bf
+L$d+
+L$D3
+L$D_^
+L$D_^[d
+L$d_^]d
+L$Dd
+L$dd
+L$Df
+L$dj
+L$DP
+L$DPQ
+L$dPQ
+L$dPQV
+L$DPWQ
+L$DQ
+L$DR
+L$dR
+L$DRP
+L$dRPQ
+l$Dt
+L$dtw
+L$dVQ
+L$DVQ
+L$DWRPQV
+L$Ff
+L$fP
+L$h+
+L$H][_^d
+L$H^d
+L$H_^]
+L$H_^][d
+L$h_^]d
+L$H_^]d
+L$hd
+L$Hd
+L$hf
+L$Hh
+L$hj
+l$Hj
+L$Hj
+L$hP
+L$HP
+L$HPh80
+L$hPQ
+L$HPQ
+L$HPQSf
+L$hPQU
+L$hPQUf
+L$HQ
+L$HR
+L$hR
+L$HRPQ
+L$HRQP
+L$hSUV
+L$HWQ
+l$l9\$
+L$L;
+L$L@
+L$L_^]
+L$L_^]d
+L$l_^]d
+L$Ld
+L$Lf
+L$LP
+L$lP
+L$lPQ
+L$LPQ
+L$LPQQ
+L$lPQR
+L$LPQRf
+L$LQ
+L$LQR
+L$LRQP
+L$LS
+L$LUQ
+L$l|
+L$P3
+L$p@;
+L$P_][^d
+L$p_^
+L$p_^]d
+L$P_^]d
+L$p_^d
+L$Pd
+L$Pf
+L$ph
+L$pP
+L$PP
+L$pPQ
+L$PPQV
+L$pPQW
+L$PQ
+L$PQP
+L$PQQ
+L$pR
+L$PR
+L$PRP
+L$pRPQ
+L$PS
+L$PV
+L$pW
+L$Rf
+L$T+
+L$T3
+L$T@;
+L$T^d
+L$T_^][d
+L$T_^]d
+L$Td
+L$Tf
+L$th,1
+L$thL1
+L$Tj
+L$tj
+l$Tj
+L$Tj Q
+L$tP
+L$TP
+L$TPQ
+L$tPQ
+L$TPQS
+L$TPQSf
+L$TPQWf
+L$tQ
+L$TQ
+L$TQQ
+L$tR
+L$TR
+L$tRSWPQ
+L$tSh
+L$tWQQ
+L$X3
+L$X^d
+L$X_^
+L$X_^][d
+L$X_^]d
+L$x_^d
+L$XB
+L$Xd
+L$Xf
+L$xhT1
+L$Xj
+L$xP
+L$XP
+L$XPQ
+L$xPQ
+L$xPQf
+L$XPQR
+L$xPQUf
+L$xPQV
+L$xPQW
+L$xQ
+L$XQj
+L$xR
+L$XR
+L$xRPQ
+L$xSP
+L$|h
+L$|j
+L$|PQ
+L$|R
+Last Modify Date
+LegalCopyright
+LegalTrademarks
+LIBf
+LIBt
+List1
+ListCtrls
+LOAD
+LOAD = 
+LoadBitmapA
+LoadCursorA
+lstrcmpA
+lstrcpyA
+lstrlenA
+LSUVW
+LSVW
+M Pj
+M RP
+Machine ID :
+Machine Model
+Machine Model :
+Machine\
+Machine\*.*
+MachineList.ml
+malloc
+Mask Size
+MASTER
+MbP?
+Media Type
+memmove
+MessageBeep
+MFC42.DLL
+MMMMMMMMMMMF
+MMMMMMMMMMMM
+MMMMMMMMMMMMF
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMF
+MMMMMMMMMMMMMP
+MMMMMMMMMMMMP
+MMMMMMMMMMMMp
+MMMMMMMMMMMMW
+MMMMMMMMMMMP
+MMMMMMMMMMMW
+MN-   
+Model Name:
+modf
+MOT,HEX
+MS Sans Serif
+MSVCRT.dll
+N$PQ
+N`WP
+n`WP
+Needle Plate Size
+New ROM File Name :
+NhQh
+No data file exists.
+No disk in drive A.!The floppy disk is not formatted.#The floppy disk is write-protected.
+No disk in FD300.!Disk of FD300 is write-protected.
+No file exists.*There is no sewing data. Cannot export it.
+No. of End Back Tack Stitches : 
+No. of Fixed Stitches : 
+No. of Start Back Tack Stitches : 
+No. of Stitch
+NORMAL
+NtE=
+Number of Data :
+Number of Data:
+Number of Programs 
+NWVS
+O Pj
+O0S2
+o`VP
+ole32.dll
+ONED
+ONEF
+ONEU
+ONEX
+OpenClipboard
+OPT1
+OPT2
+OPT3
+OriginalFilename
+Other
+Output
+Output As New File
+Output file failure.
+Output Parameter Setting
+OverWrite Data
+P0VW
+P6T6l6
+p9^$ukf
+P@_^]f3
+P@_^f
+P@_^f3
+P@f3
+P@GMu
+P@KOu
+Parameter file error.
+Pattern Confirmation
+Pattern Paramater Setting 
+PeekMessageA
+Ph1O
+Ph2O
+Ph80
+PhD5
+PhT4
+PhX4
+PjQh
+Please input a ROM file name.
+Please select a folder.
+Please select a program number.
+Please select a ROM file.
+PMMMMMMMMMM
+PMMMMMMMMMMM
+PMMMMMMMMMMMJ
+Port number error.
+PQPQ
+PQPR
+PQRQ
+PQRS
+PQRW
+PQSh
+PQWU
+Processing error.
+ProductName
+ProductVersion
+Program
+PROM 128K
+PROM 128KB
+PROM 16K
+PROM 16KB
+PROM 1M
+PROM 1MB
+PROM 256K
+PROM 256KB
+PROM 2M
+PROM 2MB
+PROM 32K
+PROM 32KB
+PROM 512K
+PROM 512KB
+PROM 64K
+PROM 64KB
+PROM ALL Type
+PROM read error.
+PROM write error.
+PRW-1 error.
+PRW-1 is not connected.
+PRW-1.IN
+PRW-1.OUT
+PS-300B ISM Data
+PS300BMachineImportExport
+PS300BMachineImportExport 
+PS300BMachineImportExport DLL
+PS300BMachineImportExport.DLL
+PS300BMachineImportExportENU.dll
+PSQR
+PSU3
+PSUV
+PSUVW
+PSWQR
+pt]=N
+PT^Y
+PurgeComm
+PVQR
+PWSQRV
+Qh80
+Qh@2
+QhT4
+QPSWR
+QQSVW
+QRPV
+QRPWS
+qsort
+QSUV
+QSVW
+QUhC
+QUIT
+R0VW
+R0Y0
+R<_^
+R<f;
+R<f=
+R@^[
+R@_^
+R@_^]f
+R@_^]f3
+R@_^f
+R@f3
+R@Ff;
+rand
+Read
+READ
+Read From Machine Media
+Read From PROM 
+Read From ROM
+ReadFile
+Receiving failure.
+Rectangle
+RegCloseKey
+RegConnectRegistryA
+RegCreateKeyExA
+RegDeleteKeyA
+RegDeleteValueA
+RegEnumKeyExA
+RegEnumValueA
+RegFlushKey
+RegGetKeySecurity
+RegLoadKeyA
+RegNotifyChangeKeyValue
+RegOpenKeyExA
+RegQueryInfoKeyA
+RegQueryValueExA
+RegReplaceKeyA
+RegRestoreKeyA
+RegSaveKeyA
+RegSetKeySecurity
+RegSetValueExA
+RegUnLoadKeyA
+ReleaseDC
+REPD
+REPF
+REPU
+REPX
+Rh\1
+Rh^Y
+Rich_
+ROM  
+ROM Copier
+ROM Data
+ROM data error.
+ROM File
+ROM File Comment : 
+ROM File Name
+ROM FIle Name :
+ROM file(*.bin) | *.bin|
+ROM file(*.MOT,*.HEX)|*.MOT;*.HEX||
+ROM File:
+ROM File\
+ROM Version : 
+ROM version error.
+ROM_TEMP
+ROM_TEMP.BIN
+ROM_TEMP.ROM
+ROM_TEMP1
+ROM_TEMP2
+ROM_TEMP3
+RPQSWSW
+RPSj
+RShC
+RSWP
+S(RPQ
+S,PQR
+S00A000050532D3330304250
+s0x0
+s4VP
+S9030000FC
+Save
+SAVE
+SAVE = 
+Save ROM File
+Save To ROM File
+SECRegistry
+Select ROM File
+Select ROM or File 
+Sending failure.
+SendMessageA
+SetCommMask
+SetCommState
+SetCommTimeouts
+SetCurrentDirectoryA
+SetCursor
+SetupComm
+SetWindowLongA
+Sewing Mode :
+Sh\5
+SHBrowseForFolderA
+SHELL32.dll
+SHGetPathFromIDListA
+SHGetSpecialFolderLocation
+ShH9
+Show all model's ROM file
+ShX5
+SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\SW1WinUS\
+SPEED
+SPhN
+SPLIT_NEEDLELOW
+SPLIT_NEEDLEUP
+srand
+SRPQ
+SShG
+SShN
+SSSh
+Start Back Tack Width : 
+Start Point 
+StC-
+STITCH (
+Stitch Length : 
+Stitch number exceeded.
+STOP
+STOPD
+STOPF
+STOPU
+STOPX
+StringFileInfo
+strncpy
+strtol
+SUPS
+SUV3
+SUVf=
+SUVW
+SUVW$
+SUVW3
+SUVWj
+SUVWP
+SUVWPh
+SVf=
+SVW3
+SVWf
+SVWj
+SW1Win.exe 
+SysListView32
+t f=
+t$ +
+t$ 3
+T$ @
+T$ A
+T$ B
+T$ f
+t$ f
+T$ h
+T$ h`:
+T$ j
+T$ P
+T$ PQ
+T$ PR
+T$ Q
+T$ Qh@2
+T$ QPR
+T$ QR
+T$ QSf
+T$ R
+T$ Rj
+T$ SS
+t$ V
+T$ VR
+t$ W
+T$ WR
+t$ ~f
+T$!QR
+T$$3
+t$$3
+t$$f
+T$$h
+T$$h@4
+t$$j
+T$$j
+T$$PR
+T$$Q
+T$$Qh80
+T$$QPR
+T$$QR
+T$$QRP
+T$$R
+T$$RPQ
+T$$RQ
+T$$RV
+T$$SR
+T$$SSR
+T$$u)
+T$$VR
+t$$W
+T$$WR
+T$&W
+T$&WR
+T$(3
+T$(f
+T$(h80
+T$(j
+T$(P
+T$(PQR
+T$(PR
+T$(Q
+T$(QR
+T$(QRf
+T$(R
+T$(Rf
+T$(RQ
+T$(t
+t$(u
+T$(VR
+t$(W
+T$(WR
+T$)f
+T$*QR
+T$,+
+T$,3
+T$,f
+t$,f
+T$,hT1
+T$,j
+T$,P
+T$,PR
+T$,Q
+t$,Q
+T$,QPR
+T$,QR
+T$,QRf
+T$,RP
+T$,RS
+T$,RV
+T$,Sh
+T$,u
+t$,uU;
+T$,VR
+T$,|
+T$-%
+T$.f
+T$0+
+T$03
+t$0;
+t$0;N
+T$0f
+T$0h80
+t$0j
+T$0P
+T$0PQR
+T$0PR
+T$0Q
+T$0QPR
+T$0QR
+T$0QRP
+T$0QRQ
+T$0R
+T$0SS
+T$0SSR
+T$0t
+T$0V+
+t$0W
+T$0Wh
+T$2f
+T$3Q
+T$43
+T$4;
+T$4f
+t$4j
+T$4j
+T$4P
+T$4PQR
+T$4PR
+T$4Q
+T$4Qh80
+T$4QPR
+T$4QR
+T$4QRP
+T$4QRQ
+T$4QRSWV
+T$4Rf
+T$4RP
+T$4RV
+T$4UR
+T$4VR
+T$4WR
+T$6Q
+T$8f
+T$8h
+T$8j
+T$8P
+T$8PR
+T$8QRhx1
+T$8QRP
+T$8R
+T$8RS
+T$8RV
+T$8u
+T$8U
+t$8VUQPR
+t$8W
+T$:f
+t$<3
+T$<;
+T$<f
+T$<P
+T$<PQR
+T$<PR
+T$<Q
+T$<QPR
+T$<QR
+T$<QRhx1
+T$<QRW
+T$<R
+t$<t
+T$<u
+T$<W
+T$>f
+T$@3
+T$@P
+T$@PR
+T$@Q
+T$@QRU
+t$@~
+T$\3
+t$\f
+T$\f
+T$\h
+T$\j
+T$\PR
+T$\QPR
+T$\QR
+T$\QRSQ
+T$^f
+t$`f
+T$`f
+T$`P
+T$`QPR
+T$`QR
+T$`QRP
+T$Bf
+T$D;
+T$Df
+T$Dj
+t$dj
+T$dP
+T$DPQ
+T$DPQf
+T$dPQR
+T$DPQR
+T$DPR
+T$DQ
+T$DQPR
+T$dQPR
+T$DQR
+T$dQR
+T$DQRS
+T$dQVR
+T$dR
+T$DSh
+T$DSR
+T$DSS
+T$DSSR
+T$DWR
+t$ff
+T$h3
+T$H;
+t$hf
+T$Hf
+t$Hf;
+T$hh
+T$Hj
+t$Hj
+T$HP
+T$hP
+T$HPQ
+T$HPQR
+T$HPR
+T$HQ
+T$HQh80
+T$hQPR
+T$HQR
+T$hQR
+T$HQRS
+T$hR
+T$HSR
+T$hSS
+t$Ht"f=
+T$HVR
+t$hWj
+t$jf
+T$k%
+T$L+
+t$l2
+T$L3
+T$lf
+T$Lf
+T$LJ;
+t$LP
+T$LP
+T$lP
+T$LPR
+T$LQ
+T$lQ
+T$lQPR
+T$LQR
+T$lQRPW
+T$LQRV
+T$lQWQ
+T$LRP
+T$LSS
+T$Nf
+t$nf
+t$P;
+T$Pf
+T$ph
+T$phL1
+T$pj
+T$pP
+T$pPQ
+T$pPQR
+T$pPR
+T$PPR
+T$PQ
+T$pQPR
+T$PQR
+T$PR
+T$PRQ
+T$PUR
+T$T9r
+T$T;
+t$Tf
+T$th
+t$Tj
+T$tj
+T$tPSQ
+T$tQ
+T$tQPQ
+T$TQPR
+T$tQR
+T$TQR
+T$TQRW
+T$tQVQ
+t$X+
+t$X;
+T$Xf
+t$Xf
+T$xf9
+t$Xj
+T$Xj
+T$XP
+T$xP
+T$xPQR
+T$XPR
+T$xQ
+T$XQPR
+T$xQPR
+T$xQR
+T$XQR
+T$xQRU
+T$xQRV
+T$XUR
+t$XW
+t$X|
+T$ZR
+T${%
+T$|PQ
+T$|QR
+t%Uj
+t+VW
+T,df
+T,tf
+T,Xf
+t-f;
+t-Wh
+t0_^]f
+t0Ht
+t<Ht H
+t=f=
+t@W3
+TACK
+tB_^]f
+tBf=
+tDf=
+tFf=
+tgf=
+The file you have selected will be converted to BIN file 
+There is no data exist.
+There is no data to be deleted.
+There is no file name.#Specified directory does not exist.
+There is no parameter file.
+There is no ROM data.!Insufficient ROM space available.
+This data is read only.
+This is a blank ROM.0Failed converting the selected file to MOT file.$Size over. Can not export this file.0Do you want to delete the data int the ROM file?$Outputed a data to program number : 
+tHU3
+time
+tISQ
+TITLE = "PRW-1" , "BLANK"
+TITLE = "PRW-1" , "READ"
+TITLE = "PRW-1" , "VERIFY"
+TITLE = "PRW-1" , "WRITE"
+tmp.all
+tmp.bas
+TMP_ROUND.tmp
+tMWSj@j
+tO;D$$}I
+tof=
+tQHt
+TranslateMessage
+Translation
+TRIM
+TSUV
+TSUV3
+TSUVW
+tSUVW
+tUSh
+TYPE
+Type Unmatch
+u _^]
+U f3
+u"Sh
+u&WVS
+u*ht6
+u*VS
+u0hx2
+u5f3
+u6_^]
+u6Ph
+u7WPS
+uBPVU
+uFj(
+Uj2j
+uN9\$
+UNINST.EXE
+UninstallString
+UnionRect
+Unknown
+Unknown Version Type
+uPj 
+uQ8\$*uK
+USER32.dll
+usVS
+UtG=.
+UUhN
+UUUf
+UUUUUU
+UUUUUUUUUUUUUUUUUU
+UVf;
+UVW3
+uwh,7
+uWPh
+u|VQ
+V QWh
+VarFileInfo
+VERIFY
+Verify error.
+Version
+Vh80
+VM = DETAIL
+vn;D$
+Volatile Environment
+VpRh
+VS_VERSION_INFO
+VUUU
+VVhG
+VVVh
+W     
+W PQ
+W QR
+Wh05
+Where is ROM data to be stored?$Where is ROM data to be copied from?"Where is ROM data to be copied to?
+WMMMMMMMMMMJ
+WMMMMMMMMMMMM
+WMMMMMMMMMMMMF
+WMMMMMMMMMMMMMMF
+WMMMMMMMMMMMMMMMMMMMMMH
+WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMP
+WMMMMMMMMMMMMMMMMPH
+WMMMMMMMMMMMMMMW
+WMMMMMMMMMMMMP
+WMMMMMMMMMMMW
+Work Clamp Size
+WPQP
+WRITE
+Write ROM
+Write To Machine Media
+Write to MOT File
+Write to PROM 
+WriteFile
+WSPQ
+WSQR
+WSRP
+Wt!f=
+Wt.f=
+WtYf
+WVQR
+WWhG
+WWWh
+X_5.4-Y_19mm   (Sewing Area  X_4mm - Y_15mm)
+X_5.4-Y_24.5mm(Sewing Area  X_4mm - Y_20mm)
+X_5.4-Y_36mm   (Sewing Area  X_4mm - Y_32mm)
+X_5.4mm(Sewing Area  X_4mm)
+X_6.8-Y_24.5mm(Sewing Area  X_5.4mm-Y_20mm)
+X_6.8-Y_36mm  (Sewing Area  X_5.4mm-Y_32mm)
+X_6.8-Y_47mm  (Sewing Area  X_5.4mm-Y_40mm)
+X_7.3-Y_24.5mm(Sewing Area  X_6mm - Y_20mm)
+X_7.3-Y_36mm  (Sewing Area  X_6mm - Y_32mm)
+X_7.3-Y_47mm  (Sewing Area  X_6mm - Y_40mm)
+X_7.3mm(Sewing Area  X_6mm)
+XSUV
+xSUV
+XY-   
+y$xu'
+Y@PT
+YMMMMMMMMMMM
+YMMMMMMMMMMMJ
+YMMMMMMMMMMMM
+YMMMMMMMMMMMMMMFWJJJWFMMMMMMMMMMMMMMC
+YMMMMMMMMMMMMMMMMMMMMMMMMMH
+YYYYYYYYYYYK
+ZE856A
+ZE8580
+Zigzag Width : 
+{$e|
+|!jd
+|$ +
+|$ 3
+|$ j
+|$ S
+|$ ~G
+|$$3
+|$$9x
+|$$h@4
+|$$j
+|$'f
+|$(f
+|$(j
+|$,+
+|$,f
+|$03
+|$0f
+|$0W
+|$0~@
+|$4;
+|$4C;
+|$4f
+|$4j
+|$4t
+|$8;
+|$8t
+|$:f
+|$<f
+|$<t
+|$>f
+|$@P3
+|$\Q
+|$`h
+|$`|
+|$Bf
+|$df
+|$DR
+|$h;
+|$hf
+|$Hj
+|$l+
+|$lf
+|$Lj
+|$pe}
+|$pQV
+|$p}
+|$UMu8
+|$VNu1
+|$Xf
+|$|f
+|8;t$
+|;_^]
+|b9L$
+|ef=
+|Nf=
+}$e|A
+}'9V
+}29N
+}`VP
+~$xuG
+~`PQ
